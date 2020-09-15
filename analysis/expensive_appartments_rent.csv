@@ -1,0 +1,101 @@
+realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter
+4459,stan,izdavanje,500.0,,,,1.0,False,,4.0,1.0,7500.0,Beograd,Dedinje (25. maj)
+14785,stan,izdavanje,900.0,,,3.0,,True,"Centralno, Klima",15.0,,5400.0,Beograd,Voždovac
+4549,stan,izdavanje,212.0,,,,5.0,False,"Centralno, Klima",4.0,4.0,5000.0,Beograd,Vračar (Hram)
+5686,stan,izdavanje,400.0,,,,,False,Centralno,7.0,1.0,5000.0,Beograd,Senjak
+4547,stan,izdavanje,303.0,,,,7.0,False,,4.0,3.0,4500.0,Beograd,Vračar (Hram)
+18966,stan,izdavanje,298.0,,,7.0,7.0,False,Centralno,,,4500.0,Beograd,Vračar (Hram)
+19355,stan,izdavanje,1000.0,2020,,,,False,Samostalno,1.0,,4000.0,Pećinci,
+19312,stan,izdavanje,1000.0,2020,,,,False,Samostalno,1.0,,4000.0,Pećinci,
+18736,stan,izdavanje,200.0,,,,5.0,False,Centralno,,,4000.0,Beograd,Vračar (Hram)
+14956,stan,izdavanje,250.0,1935,,,,True,Klima,4.0,1.0,4000.0,Beograd,Senjak
+19378,stan,izdavanje,1000.0,2020,,,,False,Samostalno,1.0,,4000.0,Pećinci,
+3114,stan,izdavanje,1000.0,2020,,,,False,Samostalno,1.0,,4000.0,Pećinci,
+1602,stan,izdavanje,200.0,,,,5.0,False,Centralno,,,4000.0,Beograd,Vračar (Hram)
+18273,stan,izdavanje,430.0,1932,,,,False,Klima,10.0,3.0,3800.0,Beograd,Voždovac
+2509,stan,izdavanje,214.0,2018,,,7.0,False,Centralno,3.0,,3500.0,Beograd,Centar (uži)
+18768,stan,izdavanje,214.0,,,,7.0,False,Centralno,,,3500.0,Beograd,Centar (uži)
+1637,stan,izdavanje,214.0,,,,7.0,False,Centralno,,,3500.0,Beograd,Centar (uži)
+18763,stan,izdavanje,180.0,,,,,False,Centralno,,,3300.0,Beograd,Dedinje (RTV Pink)
+1632,stan,izdavanje,180.0,,,,,False,Centralno,,,3300.0,Beograd,Dedinje (RTV Pink)
+18898,stan,izdavanje,380.0,,,,7.0,False,Centralno,,,3200.0,Beograd,Autokomanda
+1656,stan,izdavanje,130.0,,,,1.0,False,Centralno,3.0,,3200.0,Beograd,Vračar (Hram)
+1650,stan,izdavanje,120.0,,,,1.0,False,Centralno,,,3200.0,Beograd,Vračar (Hram)
+18787,stan,izdavanje,130.0,,,,1.0,False,Centralno,3.0,,3200.0,Beograd,Vračar (Hram)
+18781,stan,izdavanje,120.0,,,,1.0,False,Centralno,,,3200.0,Beograd,Vračar (Hram)
+1645,stan,izdavanje,160.0,,,,3.0,False,Centralno,,,3000.0,Beograd,Vračar (Hram)
+18776,stan,izdavanje,160.0,,,,3.0,False,Centralno,,,3000.0,Beograd,Vračar (Hram)
+1644,stan,izdavanje,150.0,,,,,False,Centralno,,,3000.0,Beograd,Vračar (Hram)
+5822,stan,izdavanje,205.0,,,,4.0,False,"Samostalno, Klima",5.0,5.0,3000.0,Beograd,Vračar (Centar)
+18775,stan,izdavanje,150.0,,,,,False,Centralno,,,3000.0,Beograd,Vračar (Hram)
+2514,stan,izdavanje,236.0,2012,,,3.0,False,Samostalno,4.0,,3000.0,Beograd,Tašmajdan
+21061,stan,izdavanje,127.0,,,,7.0,False,Centralno,4.0,1.0,3000.0,Beograd,Đeram pijaca
+11103,stan,izdavanje,125.0,,,,15.0,False,,4.0,,3000.0,Beograd,Centar (uži)
+9757,stan,izdavanje,127.0,,,,7.0,False,Centralno,4.0,1.0,3000.0,Beograd,Đeram pijaca
+21003,stan,izdavanje,127.0,,,,7.0,False,Centralno,4.0,1.0,3000.0,Beograd,Đeram pijaca
+4272,stan,izdavanje,240.0,,,,4.0,False,"Samostalno, Klima",4.0,,2900.0,Beograd,Dedinje (RTV Pink)
+1676,stan,izdavanje,169.0,,,,,True,Samostalno,4.0,,2800.0,Beograd,Vračar (Hram)
+5813,stan,izdavanje,170.0,,,,2.0,False,"Samostalno, Klima",4.0,3.0,2800.0,Beograd,Vračar (Hram)
+1633,stan,izdavanje,140.0,,,,4.0,False,Centralno,,,2800.0,Beograd,Vračar (Hram)
+18033,stan,izdavanje,230.0,2000,,,,True,Klima,5.0,2.0,2800.0,Beograd,Senjak
+18398,stan,izdavanje,169.0,,,,,True,Samostalno,4.0,,2800.0,Beograd,Vračar (Hram)
+18764,stan,izdavanje,140.0,,,,4.0,False,Centralno,,,2800.0,Beograd,Vračar (Hram)
+18923,stan,izdavanje,192.0,,,,8.0,False,Centralno,,,2700.0,Beograd,Tašmajdan
+2511,stan,izdavanje,262.0,,,,2.0,False,Samostalno,5.0,,2700.0,Beograd,Dedinje (Beli dvor)
+1816,stan,izdavanje,192.0,,,,8.0,False,Centralno,,,2700.0,Beograd,Tašmajdan
+4872,stan,izdavanje,200.0,,,,4.0,False,"Centralno, Klima",5.0,1.0,2700.0,Beograd,Vračar (Hram)
+8442,stan,izdavanje,192.0,2018,,,8.0,False,"Centralno, Klima",4.0,3.0,2700.0,Beograd,Poštanska štedionica
+10802,stan,izdavanje,250.0,,,,1.0,False,"Centralno, Klima",5.0,1.0,2500.0,Beograd,Crveni krst
+10671,stan,izdavanje,150.0,,,,1.0,False,"Centralno, Klima",4.0,1.0,2500.0,Beograd,Dedinje (RTV Pink)
+5820,stan,izdavanje,170.0,,,,2.0,False,"Centralno, Klima",4.0,3.0,2500.0,Beograd,Vračar (Centar)
+6975,stan,izdavanje,118.0,2020,,,4.0,False,"Centralno, Klima",4.0,3.0,2500.0,Beograd,Senjak
+8485,stan,izdavanje,118.0,,,,4.0,False,"Centralno, Klima",4.0,2.0,2500.0,Beograd,Centar (uži)
+1642,stan,izdavanje,277.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
+1655,stan,izdavanje,144.0,,,,5.0,False,Centralno,3.0,,2500.0,Beograd,Vračar (Hram)
+1639,stan,izdavanje,125.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
+1648,stan,izdavanje,240.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
+8769,stan,izdavanje,118.0,2020,,,4.0,False,Klima,4.0,2.0,2500.0,Beograd,Senjak
+1641,stan,izdavanje,240.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
+18782,stan,izdavanje,144.0,,,,5.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
+19838,stan,izdavanje,123.0,2018,,,16.0,True,Centralno,4.0,,2500.0,Beograd,Beograd na vodi
+18773,stan,izdavanje,277.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
+18772,stan,izdavanje,240.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
+10712,stan,izdavanje,118.0,,,,11.0,False,"Centralno, Klima",4.0,1.0,2500.0,Beograd,Beograd na vodi
+5669,stan,izdavanje,170.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
+18770,stan,izdavanje,125.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
+3286,stan,izdavanje,118.0,2020,,,4.0,False,Centralno,4.0,,2500.0,Beograd,Beograđanka ( centar )
+18786,stan,izdavanje,144.0,,,,5.0,False,Centralno,3.0,,2500.0,Beograd,Vračar (Hram)
+1863,stan,izdavanje,165.0,,,,,False,Centralno,,,2500.0,Beograd,Dedinje (RTV Pink)
+4198,stan,izdavanje,155.0,,,,2.0,False,Klima,5.0,,2500.0,Beograd,Dedinje (RTV Pink)
+18779,stan,izdavanje,240.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
+17704,stan,izdavanje,280.0,,,,,False,Klima,5.0,2.0,2500.0,Beograd,Savski venac
+4608,stan,izdavanje,300.0,,,,1.0,False,Klima,5.0,1.0,2500.0,Beograd,Dedinje (RTV Pink)
+8764,stan,izdavanje,260.0,,,,,False,"Centralno, Klima",7.0,2.0,2500.0,Beograd,Neimar
+3575,stan,izdavanje,123.0,2018,,,16.0,True,Centralno,4.0,,2500.0,Beograd,Beograd na vodi
+5762,stan,izdavanje,168.0,,,,2.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
+16373,stan,izdavanje,400.0,,,,,False,,,,2500.0,Beograd,Stari Grad
+10954,stan,izdavanje,300.0,,,,1.0,False,Klima,5.0,,2500.0,Beograd,Dedinje (RTV Pink)
+4364,stan,izdavanje,143.0,,,,,False,"Samostalno, Klima",4.0,1.0,2500.0,Beograd,Dedinje (25. maj)
+9348,stan,izdavanje,125.0,,,,1.0,False,Samostalno,4.0,2.0,2500.0,Beograd,Čubura
+18983,stan,izdavanje,165.0,,,,,False,Centralno,,,2500.0,Beograd,Dedinje (RTV Pink)
+1766,stan,izdavanje,170.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
+1651,stan,izdavanje,144.0,,,,5.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
+9112,stan,izdavanje,125.0,,,,1.0,False,Samostalno,4.0,2.0,2500.0,Beograd,Čubura
+10557,stan,izdavanje,168.0,,,,2.0,False,"Centralno, Klima",3.0,1.0,2500.0,Beograd,Kalenić pijaca
+18866,stan,izdavanje,170.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
+19557,stan,izdavanje,118.0,2020,,,4.0,False,Centralno,4.0,,2500.0,Beograd,Beograđanka ( centar )
+20934,stan,izdavanje,125.0,,,,1.0,False,Samostalno,4.0,2.0,2500.0,Beograd,Čubura
+5792,stan,izdavanje,215.0,,,,2.0,False,"Centralno, Klima",4.0,2.0,2490.0,Beograd,Centar (uži)
+10790,stan,izdavanje,90.0,,,,23.0,False,"Centralno, Klima",3.0,1.0,2300.0,Beograd,Beograd na vodi
+2193,stan,izdavanje,170.0,,,,1.0,False,"Centralno, Klima",5.0,1.0,2300.0,Beograd,Dedinje (Beli dvor)
+2180,stan,izdavanje,170.0,,,,1.0,False,"Centralno, Klima",5.0,1.0,2300.0,Beograd,Dedinje (Beli dvor)
+2840,stan,izdavanje,147.0,1995,,,,False,Centralno,7.0,,2300.0,Beograd,Slavija
+19013,stan,izdavanje,150.0,,,,1.0,False,Centralno,,,2300.0,Beograd,Dedinje (Beli dvor)
+4542,stan,izdavanje,124.0,,,,15.0,False,"Centralno, Klima",4.0,1.0,2300.0,Beograd,Beograd na vodi
+9677,stan,izdavanje,230.0,,,,,False,Klima,5.0,2.0,2300.0,Beograd,Senjak
+10657,stan,izdavanje,123.0,,,,15.0,False,"Centralno, Klima",4.0,1.0,2300.0,Beograd,Beograd na vodi
+7390,stan,izdavanje,179.0,,,,6.0,False,Samostalno,4.0,2.0,2300.0,Beograd,Centar (uži)
+5003,stan,izdavanje,122.0,,,,15.0,False,Centralno,4.0,,2300.0,Beograd,Beograd na vodi
+1901,stan,izdavanje,150.0,,,,1.0,False,Centralno,,,2300.0,Beograd,Dedinje (Beli dvor)
+18892,stan,izdavanje,230.0,,,,3.0,False,Centralno,,,2300.0,Beograd,Vračar (Hram)
+18967,stan,izdavanje,160.0,,,,1.0,False,Centralno,,,2300.0,Beograd,Dedinje (RTV Pink)

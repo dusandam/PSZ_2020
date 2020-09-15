@@ -1,0 +1,21 @@
+realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter
+8254,stan,prodaja,650.0,,,,,False,,5.0,1.0,2500000.0,Beograd,Senjak
+4351,stan,prodaja,4144.0,,,,3.0,True,,3.0,,2394750.0,Novi Sad,Subotički bulevar
+7708,stan,prodaja,260.0,2019,,,,True,Klima,4.0,2.0,1500000.0,Beograd,Dedinje (RTV Pink)
+8244,stan,prodaja,289.0,,,,2.0,False,,5.0,1.0,1500000.0,Beograd,Dedinje (25. maj)
+14177,stan,prodaja,400.0,1938,,,,True,"Samostalno, Klima",8.0,3.0,1350011.0,Beograd,Savski venac
+14189,stan,prodaja,400.0,1938,,,,True,"Samostalno, Klima",8.0,3.0,1350011.0,Beograd,Savski venac
+14157,stan,prodaja,400.0,1938,,,,True,"Samostalno, Klima",8.0,3.0,1350011.0,Beograd,Savski venac
+4923,stan,prodaja,162.0,,,,14.0,False,Centralno,4.0,,1338888.0,Beograd,Beograd na vodi
+21307,stan,prodaja,162.0,,,,14.0,False,Centralno,4.0,,1338888.0,Beograd,Beograd na vodi
+21731,stan,prodaja,162.0,,,,14.0,False,Centralno,4.0,,1338888.0,Beograd,Beograd na vodi
+21729,stan,prodaja,162.0,,,,14.0,False,Centralno,4.0,,1338888.0,Beograd,Beograd na vodi
+4935,stan,prodaja,162.0,,,,14.0,False,Centralno,4.0,,1338888.0,Beograd,Beograd na vodi
+21303,stan,prodaja,162.0,,,,14.0,False,Centralno,4.0,,1338888.0,Beograd,Beograd na vodi
+21439,stan,prodaja,156.0,,,,16.0,False,Centralno,4.0,,1292888.0,Beograd,Beograd na vodi
+4924,stan,prodaja,156.0,,,,16.0,False,Centralno,4.0,,1292888.0,Beograd,Beograd na vodi
+21320,stan,prodaja,156.0,,,,16.0,False,Centralno,4.0,,1292888.0,Beograd,Beograd na vodi
+21317,stan,prodaja,156.0,,,,16.0,False,Centralno,4.0,,1292888.0,Beograd,Beograd na vodi
+21742,stan,prodaja,156.0,,,,16.0,False,Centralno,4.0,,1292888.0,Beograd,Beograd na vodi
+21384,stan,prodaja,151.0,,,,14.0,False,Centralno,4.0,,1244888.0,Beograd,Beograd na vodi
+4922,stan,prodaja,151.0,,,,14.0,False,Centralno,4.0,,1244888.0,Beograd,Beograd na vodi

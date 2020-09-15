@@ -1,0 +1,21 @@
+realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter
+14459,kuca,prodaja,3074.0,,,,3.0,False,"Samostalno, Klima",30.0,30.0,15000000.0,Beograd,Dedinje (RTV Pink)
+16408,kuca,prodaja,3074.0,2019,,,,False,"Samostalno, Klima",,,15000000.0,Beograd,Dedinje (Beli dvor)
+16313,kuca,prodaja,1390.0,,,,3.0,True,"Centralno, Klima",20.0,17.0,7900000.0,Beograd,Dedinje (RTV Pink)
+16331,kuca,prodaja,1335.0,,,,2.0,True,Klima,11.0,8.0,5500000.0,Beograd,Savski venac
+16441,kuca,prodaja,1335.0,,,,,True,Samostalno,9.0,,5500000.0,Beograd,Dedinje (Beli dvor)
+14982,kuca,prodaja,1290.0,,2450.0,,,True,Centralno,10.0,,5500000.0,Beograd,Dedinje (25. maj)
+12116,kuca,prodaja,1150.0,2008,,,,True,Samostalno,6.0,5.0,5000000.0,Beograd,Topčider
+18226,kuca,prodaja,800.0,1998,,,,True,Samostalno,5.0,,5000000.0,Beograd,Senjak
+18172,kuca,prodaja,1500.0,2016,,,2.0,False,Samostalno,7.0,,5000000.0,Beograd,Savski venac
+17746,kuca,prodaja,900.0,,,,,True,Samostalno,7.0,,4600000.0,Beograd,Dedinje (RTV Pink)
+11886,kuca,prodaja,850.0,,,,,True,Samostalno,1.0,1.0,4500000.0,Beograd,Dedinje (25. maj)
+17060,kuca,prodaja,900.0,,,,,True,,7.0,,4500000.0,Beograd,Dedinje (RTV Pink)
+17440,kuca,prodaja,800.0,,,,-1.0,False,"Samostalno, Klima",20.0,2.0,4500000.0,Beograd,Dedinje (RTV Pink)
+14078,kuca,prodaja,1338.0,,10.0,5.0,,True,,,,4000000.0,Beograd,Dedinje (25. maj)
+11734,kuca,prodaja,850.0,,,,,True,"Samostalno, Klima",6.0,4.0,4000000.0,Beograd,Senjak
+14018,kuca,prodaja,1338.0,,10.0,5.0,,True,,,,4000000.0,Beograd,Dedinje (25. maj)
+17195,kuca,prodaja,500.0,,,,,True,Centralno,,,4000000.0,Beograd,Dedinje (25. maj)
+16826,kuca,prodaja,770.0,,2500.0,,,False,,,,4000000.0,Tivat,
+11891,kuca,prodaja,800.0,,,,,False,Samostalno,1.0,1.0,3990000.0,Beograd,Dedinje (25. maj)
+12115,kuca,prodaja,900.0,2006,,,,True,Samostalno,6.0,6.0,3900000.0,Beograd,Topčider

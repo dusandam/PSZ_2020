@@ -1,0 +1,352 @@
+realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter
+16408,kuca,prodaja,3074.0,2019,,,,False,"Samostalno, Klima",,,15000000.0,Beograd,Dedinje (Beli dvor)
+16342,kuca,prodaja,480.0,2019,620.0,3.0,,False,,4.0,,2000000.0,Tivat,
+7708,stan,prodaja,260.0,2019,,,,True,Klima,4.0,2.0,1500000.0,Beograd,Dedinje (RTV Pink)
+3013,stan,prodaja,330.0,2019,,,5.0,False,,6.0,,795000.0,Beograd,Slavija
+19208,stan,prodaja,330.0,2019,,,5.0,False,,6.0,,795000.0,Beograd,Vračar (Centar)
+3004,stan,prodaja,330.0,2019,,,5.0,False,,6.0,,795000.0,Beograd,Cvetni trg
+3010,stan,prodaja,330.0,2019,,,5.0,False,,6.0,,795000.0,Beograd,Vračar (Centar)
+3012,stan,prodaja,330.0,2019,,,5.0,False,,6.0,,795000.0,Beograd,Vračar (Centar)
+8397,stan,prodaja,91.0,2019,,,28.0,False,"Centralno, Klima",3.0,2.0,733888.0,Beograd,Beograd na vodi
+2637,stan,prodaja,91.0,2019,,,28.0,False,Centralno,3.0,,732888.0,Beograd,Beograd na vodi
+11595,kuca,prodaja,365.0,2019,,,,True,Samostalno,7.0,,700000.0,Beograd,Košutnjak
+2345,stan,prodaja,205.0,2019,,,6.0,True,"Centralno, Klima",3.0,3.0,600000.0,Beograd,Čubura
+2770,stan,prodaja,60.0,2019,,,30.0,False,Centralno,2.0,,486888.0,Beograd,Beograd na vodi
+8872,stan,prodaja,162.0,2019,,,4.0,False,Centralno,4.0,4.0,486000.0,Beograd,Čubura
+21646,stan,prodaja,199.0,2019,,,2.0,True,Klima,6.0,2.0,435000.0,Beograd,Dedinje (Beli dvor)
+9673,stan,prodaja,199.0,2019,,,2.0,True,Klima,6.0,2.0,435000.0,Beograd,Dedinje (Beli dvor)
+21223,stan,prodaja,199.0,2019,,,2.0,True,Klima,6.0,2.0,435000.0,Beograd,Dedinje (Beli dvor)
+21474,stan,prodaja,199.0,2019,,,2.0,True,Klima,6.0,2.0,435000.0,Beograd,Dedinje (Beli dvor)
+2544,stan,prodaja,155.0,2019,,,7.0,False,Centralno,5.0,,418500.0,Beograd,Slavija
+20849,stan,prodaja,112.0,2019,,,2.0,False,"Centralno, Klima",4.0,1.0,385000.0,Beograd,Dedinje (Beli dvor)
+8503,stan,prodaja,112.0,2019,,,2.0,False,"Centralno, Klima",4.0,1.0,385000.0,Beograd,Dedinje (Beli dvor)
+2342,stan,prodaja,112.0,2019,,,5.0,True,"Centralno, Klima",3.0,3.0,385000.0,Beograd,Čubura
+20822,stan,prodaja,112.0,2019,,,2.0,False,"Centralno, Klima",4.0,1.0,385000.0,Beograd,Dedinje (Beli dvor)
+3299,stan,prodaja,119.0,2019,,,18.0,False,Centralno,4.0,,376888.0,Beograd,Beograd na vodi
+19542,stan,prodaja,119.0,2019,,,18.0,False,Centralno,4.0,,376888.0,Beograd,Beograd na vodi
+2348,stan,prodaja,112.0,2019,,,4.0,True,"Centralno, Klima",3.0,3.0,375000.0,Beograd,Čubura
+2347,stan,prodaja,112.0,2019,,,4.0,True,"Centralno, Klima",3.0,3.0,375000.0,Beograd,Čubura
+2583,stan,prodaja,108.0,2019,,,13.0,False,Centralno,4.0,,373888.0,Beograd,Beograd na vodi
+2606,stan,prodaja,108.0,2019,,,13.0,False,Centralno,4.0,,373888.0,Beograd,Beograd na vodi
+2303,stan,prodaja,122.0,2019,,,,False,Centralno,3.0,3.0,366000.0,Beograd,Čubura
+7614,stan,prodaja,113.0,2019,,,19.0,True,"Centralno, Klima",4.0,1.0,350000.0,Beograd,Beograd na vodi
+7715,stan,prodaja,112.0,2019,,,1.0,True,Klima,4.0,1.0,350000.0,Beograd,Voždovac
+7714,stan,prodaja,112.0,2019,,,1.0,True,Klima,4.0,1.0,350000.0,Beograd,Voždovac
+7615,stan,prodaja,113.0,2019,,,19.0,True,"Centralno, Klima",4.0,1.0,350000.0,Beograd,Beograd na vodi
+2574,stan,prodaja,112.0,2019,,,16.0,True,Centralno,4.0,,340000.0,Beograd,Beograd na vodi
+2597,stan,prodaja,112.0,2019,,,16.0,True,Centralno,4.0,,340000.0,Beograd,Beograd na vodi
+4169,stan,prodaja,174.0,2019,,,7.0,True,Centralno,4.0,,330600.0,Beograd,Zvezdara
+2343,stan,prodaja,102.0,2019,,,1.0,True,"Centralno, Klima",3.0,3.0,330000.0,Beograd,Čubura
+20945,stan,prodaja,167.0,2019,,,2.0,False,Klima,4.0,2.0,310000.0,Beograd,Filmski grad
+7870,stan,prodaja,167.0,2019,,,2.0,False,Klima,4.0,2.0,310000.0,Beograd,Filmski grad
+6193,stan,prodaja,134.0,2019,,,1.0,True,"Centralno, Klima",4.0,2.0,308200.0,Beograd,Južni bulevar
+11211,stan,prodaja,127.0,2019,,,3.0,False,Centralno,4.0,,280000.0,Beograd,Voždovac
+6278,stan,prodaja,244.0,2019,,,,True,,5.0,3.0,278100.0,Novi Sad,Podbara
+6286,stan,prodaja,112.0,2019,,,4.0,False,Centralno,4.0,3.0,275010.0,Novi Sad,Centar
+2624,stan,prodaja,94.0,2019,,,6.0,False,Centralno,4.0,,272600.0,Beograd,Slavija
+4129,stan,prodaja,82.0,2019,,,1.0,True,,3.0,,270928.0,Beograd,Senjak
+11096,stan,prodaja,156.0,2019,,,,True,Samostalno,3.0,,260000.0,Beograd,Vračar (Centar)
+21298,stan,prodaja,102.0,2019,,,3.0,True,Samostalno,4.0,,259900.0,Beograd,Voždovac
+21722,stan,prodaja,102.0,2019,,,3.0,True,Samostalno,4.0,,259900.0,Beograd,Voždovac
+5113,stan,prodaja,102.0,2019,,,3.0,True,Samostalno,4.0,,259900.0,Beograd,Voždovac
+10426,stan,prodaja,81.0,2019,,,2.0,True,"Centralno, Klima",3.0,2.0,249000.0,Beograd,Beograd na vodi
+8502,stan,prodaja,117.0,2019,,,2.0,True,,3.0,2.0,249000.0,Beograd,Autokomanda
+8519,stan,prodaja,124.0,2019,,,5.0,False,"Centralno, Klima",4.0,1.0,248000.0,Beograd,Autokomanda
+20854,stan,prodaja,124.0,2019,,,5.0,False,"Centralno, Klima",4.0,1.0,248000.0,Beograd,Autokomanda
+20827,stan,prodaja,124.0,2019,,,5.0,False,"Centralno, Klima",4.0,1.0,248000.0,Beograd,Autokomanda
+2671,stan,prodaja,82.0,2019,,,5.0,False,Centralno,3.0,,244888.0,Beograd,Beograd na vodi
+2352,stan,prodaja,88.0,2019,,,2.0,True,Centralno,3.0,2.0,229000.0,Beograd,Vukov spomenik
+2330,stan,prodaja,91.0,2019,,,3.0,False,"Samostalno, Klima",3.0,2.0,227500.0,Beograd,Voždovac
+6675,stan,prodaja,94.0,2019,,,4.0,False,Centralno,4.0,1.0,226996.0,Beograd,Gundulićev venac
+6828,stan,prodaja,94.0,2019,,,4.0,False,Centralno,4.0,1.0,226996.0,Beograd,Donji Dorćol
+8972,stan,prodaja,55.0,2019,,,22.0,True,"Centralno, Klima",2.0,1.0,225000.0,Beograd,Beograd na vodi
+2783,stan,prodaja,55.0,2019,,,22.0,True,Centralno,2.0,,225000.0,Beograd,Beograd na vodi
+9476,stan,prodaja,55.0,2019,,,22.0,True,"Centralno, Klima",2.0,1.0,225000.0,Beograd,Beograd na vodi
+7824,stan,prodaja,125.0,2019,,,5.0,False,Samostalno,4.0,2.0,225000.0,Beograd,Slavujev venac
+4179,stan,prodaja,125.0,2019,,,5.0,True,Centralno,4.0,,225000.0,Beograd,Zvezdara
+21776,stan,prodaja,139.0,2019,,,,False,Samostalno,3.0,,222400.0,Beograd,Zvezdara
+21352,stan,prodaja,139.0,2019,,,,False,Samostalno,3.0,,222400.0,Beograd,Zvezdara
+4973,stan,prodaja,139.0,2019,,,,False,Samostalno,3.0,,222400.0,Beograd,Zvezdara
+21421,stan,prodaja,139.0,2019,,,,False,Samostalno,3.0,,222400.0,Beograd,Zvezdara
+4184,stan,prodaja,123.0,2019,,,5.0,True,Centralno,4.0,,221400.0,Beograd,Zvezdara
+4131,stan,prodaja,109.0,2019,,,6.0,False,Centralno,4.0,,218000.0,Beograd,Novi Beograd Blok 45 (TC Enjub)
+2731,stan,prodaja,68.0,2019,,,12.0,False,Centralno,3.0,,212888.0,Beograd,Beograd na vodi
+2328,stan,prodaja,85.0,2019,,,3.0,False,"Samostalno, Klima",3.0,2.0,212500.0,Beograd,Voždovac
+2327,stan,prodaja,85.0,2019,,,3.0,False,"Samostalno, Klima",3.0,2.0,212500.0,Beograd,Voždovac
+9444,stan,prodaja,82.0,2019,,,2.0,False,Centralno,3.0,2.0,207460.0,Beograd,Južni bulevar
+9140,stan,prodaja,82.0,2019,,,1.0,False,Centralno,3.0,2.0,207460.0,Beograd,Južni bulevar
+9139,stan,prodaja,82.0,2019,,,2.0,False,Centralno,3.0,2.0,207460.0,Beograd,Južni bulevar
+9445,stan,prodaja,82.0,2019,,,1.0,False,Centralno,3.0,2.0,207460.0,Beograd,Južni bulevar
+6210,stan,prodaja,110.0,2019,,,8.0,True,Centralno,4.0,3.0,205700.0,Beograd,Denkova bašta
+20833,stan,prodaja,100.0,2019,,,5.0,False,"Centralno, Klima",4.0,1.0,200000.0,Beograd,Autokomanda
+20862,stan,prodaja,100.0,2019,,,5.0,False,"Centralno, Klima",4.0,1.0,200000.0,Beograd,Autokomanda
+8533,stan,prodaja,100.0,2019,,,5.0,False,"Centralno, Klima",4.0,1.0,200000.0,Beograd,Autokomanda
+2618,stan,prodaja,100.0,2019,,,5.0,True,Samostalno,3.0,,199000.0,Beograd,Skadarlija
+19655,stan,prodaja,85.0,2019,,,5.0,True,Centralno,3.0,,195000.0,Beograd,Crveni krst
+9734,stan,prodaja,105.0,2019,,,,True,Samostalno,3.0,1.0,195000.0,Beograd,Zvezdara
+3407,stan,prodaja,85.0,2019,,,5.0,True,Centralno,3.0,,195000.0,Beograd,Crveni krst
+20974,stan,prodaja,105.0,2019,,,,True,Samostalno,3.0,1.0,195000.0,Beograd,Zvezdara
+4135,stan,prodaja,78.0,2019,,,2.0,True,,3.0,,193721.0,Beograd,Senjak
+2698,stan,prodaja,76.0,2019,,,2.0,False,Centralno,3.0,,190000.0,Beograd,Gornji Dorćol
+2693,stan,prodaja,76.0,2019,,,2.0,False,,3.0,,190000.0,Beograd,Gornji Dorćol
+4326,stan,prodaja,78.0,2019,,,3.0,True,,3.0,,189600.0,Beograd,Dedinje (RTV Pink)
+9144,stan,prodaja,74.0,2019,,,1.0,False,Centralno,3.0,1.0,187220.0,Beograd,Južni bulevar
+9449,stan,prodaja,74.0,2019,,,1.0,False,Centralno,3.0,1.0,187220.0,Beograd,Južni bulevar
+2705,stan,prodaja,74.0,2019,,,1.0,False,Centralno,3.0,,185000.0,Beograd,Gornji Dorćol
+6192,stan,prodaja,79.0,2019,,,2.0,True,"Centralno, Klima",3.0,2.0,181700.0,Beograd,Južni bulevar
+6194,stan,prodaja,78.0,2019,,,1.0,True,"Centralno, Klima",3.0,2.0,179400.0,Beograd,Južni bulevar
+6199,stan,prodaja,78.0,2019,,,3.0,True,"Centralno, Klima",3.0,2.0,179400.0,Beograd,Južni bulevar
+19550,stan,prodaja,54.0,2019,,,23.0,False,Centralno,2.0,,176888.0,Beograd,Beograd na vodi
+19549,stan,prodaja,54.0,2019,,,23.0,False,Centralno,2.0,,176888.0,Beograd,Beograd na vodi
+3282,stan,prodaja,54.0,2019,,,23.0,False,Centralno,2.0,,176888.0,Beograd,Beograd na vodi
+2729,stan,prodaja,70.0,2019,,,2.0,False,Centralno,3.0,,175000.0,Beograd,Gornji Dorćol
+2329,stan,prodaja,81.0,2019,,,1.0,False,"Samostalno, Klima",3.0,2.0,174150.0,Beograd,Voždovac
+8541,stan,prodaja,87.0,2019,,,3.0,False,"Centralno, Klima",3.0,1.0,174000.0,Beograd,Autokomanda
+6297,stan,prodaja,168.0,2019,,,,False,,6.0,2.0,173000.0,Novi Sad,
+6217,stan,prodaja,91.0,2019,,,3.0,True,Centralno,4.0,3.0,171000.0,Beograd,Denkova bašta
+11212,stan,prodaja,74.0,2019,,,6.0,False,Centralno,3.0,,170200.0,Beograd,Zvezdara
+6216,stan,prodaja,101.0,2019,,,1.0,True,Centralno,4.0,3.0,169000.0,Beograd,Denkova bašta
+5354,stan,prodaja,66.0,2019,,,3.0,True,Samostalno,3.0,,168000.0,Beograd,Voždovac
+5355,stan,prodaja,66.0,2019,,,3.0,True,Samostalno,3.0,,168000.0,Beograd,Voždovac
+22150,stan,prodaja,66.0,2019,,,3.0,True,Samostalno,3.0,,168000.0,Beograd,Voždovac
+5459,stan,prodaja,64.0,2019,,,1.0,True,Samostalno,3.0,,163000.0,Beograd,Voždovac
+6288,stan,prodaja,156.0,2019,,,,False,,7.0,2.0,160680.0,Novi Sad,
+5469,stan,prodaja,62.0,2019,,,4.0,True,Samostalno,3.0,,159900.0,Beograd,Voždovac
+8855,stan,prodaja,78.0,2019,,,1.0,False,"Centralno, Klima",4.0,2.0,158250.0,Beograd,Banovo brdo
+5462,stan,prodaja,62.0,2019,,,,True,Samostalno,3.0,,157900.0,Beograd,Voždovac
+6212,stan,prodaja,83.0,2019,,,6.0,True,Centralno,3.0,2.0,155000.0,Beograd,Denkova bašta
+4181,stan,prodaja,86.0,2019,,,1.0,True,Centralno,3.0,,150500.0,Beograd,Zvezdara
+19610,stan,prodaja,61.0,2019,,,3.0,False,Centralno,3.0,,150000.0,Beograd,Crveni krst
+14752,kuca,prodaja,288.0,2019,,,1.0,True,"Samostalno, Klima",3.0,,150000.0,Niš,Pasi poljana
+10031,stan,prodaja,61.0,2019,,,3.0,False,Centralno,3.0,1.0,150000.0,Beograd,Crveni krst
+3351,stan,prodaja,61.0,2019,,,3.0,False,Centralno,3.0,,150000.0,Beograd,Crveni krst
+7694,stan,prodaja,62.0,2019,,,3.0,False,"Centralno, Klima",3.0,1.0,150000.0,Beograd,Crveni krst
+4188,stan,prodaja,88.0,2019,,,1.0,True,Centralno,3.0,,149600.0,Beograd,Zvezdara
+4046,stan,prodaja,75.0,2019,,,2.0,False,Centralno,3.0,,149250.0,Beograd,Zvezdara
+5506,stan,prodaja,57.0,2019,,,,True,Samostalno,3.0,,146000.0,Beograd,Voždovac
+22140,stan,prodaja,78.0,2019,,,1.0,False,Centralno,4.0,,143856.0,Beograd,Banovo brdo
+5342,stan,prodaja,78.0,2019,,,1.0,False,Centralno,4.0,,143856.0,Beograd,Banovo brdo
+11216,stan,prodaja,83.0,2019,,,2.0,False,"Samostalno, Klima",3.0,,142500.0,Beograd,Voždovac
+4029,stan,prodaja,83.0,2019,,,3.0,False,Samostalno,3.0,,142500.0,Beograd,Voždovac
+2336,stan,prodaja,68.0,2019,,,1.0,False,Klima,3.0,1.0,139500.0,Beograd,Autokomanda
+7062,stan,prodaja,50.0,2019,,,4.0,True,"Centralno, Klima",2.0,1.0,139000.0,Novi Sad,Centar
+5644,stan,prodaja,153.0,2019,,,4.0,True,"Samostalno, Klima",5.0,2.0,137500.0,Pančevo,Centar
+6266,stan,prodaja,133.0,2019,,,,False,,5.0,2.0,136990.0,Novi Sad,
+7828,stan,prodaja,78.0,2019,,,,False,"Samostalno, Klima",3.0,1.0,136500.0,Beograd,Voždovac
+8942,stan,prodaja,85.0,2019,,,1.0,True,Samostalno,4.0,1.0,135500.0,Beograd,Zemun (Centar)
+11015,stan,prodaja,75.0,2019,,,3.0,True,Samostalno,3.0,,135000.0,Beograd,Zvezdara
+19640,stan,prodaja,62.0,2019,,,5.0,False,Samostalno,2.0,,134080.0,Beograd,Učiteljsko naselje
+3396,stan,prodaja,62.0,2019,,,5.0,False,Samostalno,2.0,,134080.0,Beograd,Učiteljsko naselje
+9329,stan,prodaja,63.0,2019,,,5.0,False,"Samostalno, Klima",2.0,1.0,134080.0,Beograd,Učiteljsko naselje
+7027,stan,prodaja,154.0,2019,,,3.0,False,Klima,6.0,2.0,130300.0,Zrenjanin,Centar
+8927,stan,prodaja,100.0,2019,,,1.0,True,Samostalno,4.0,1.0,130000.0,Beograd,Zemun (Centar)
+19638,stan,prodaja,62.0,2019,,,4.0,False,Samostalno,3.0,,129580.0,Beograd,Učiteljsko naselje
+3391,stan,prodaja,62.0,2019,,,4.0,False,Samostalno,3.0,,129580.0,Beograd,Učiteljsko naselje
+7052,stan,prodaja,46.0,2019,,,3.0,True,"Centralno, Klima",2.0,1.0,128750.0,Novi Sad,Centar
+19636,stan,prodaja,59.0,2019,,,5.0,False,Samostalno,2.0,,127990.0,Beograd,Učiteljsko naselje
+3395,stan,prodaja,59.0,2019,,,5.0,False,Samostalno,2.0,,127990.0,Beograd,Učiteljsko naselje
+4168,stan,prodaja,64.0,2019,,,,True,"Centralno, Klima",2.0,,126720.0,Beograd,Vračar (Centar)
+9330,stan,prodaja,62.0,2019,,,2.0,False,"Samostalno, Klima",3.0,2.0,125540.0,Beograd,Učiteljsko naselje
+9109,stan,prodaja,40.0,2019,,,2.0,True,Centralno,2.0,1.0,125000.0,Beograd,Južni bulevar
+3136,stan,prodaja,40.0,2019,,,2.0,True,Centralno,2.0,,125000.0,Beograd,Lekino brdo
+9345,stan,prodaja,40.0,2019,,,2.0,True,Centralno,2.0,1.0,125000.0,Beograd,Južni bulevar
+19401,stan,prodaja,40.0,2019,,,2.0,True,Centralno,2.0,,125000.0,Beograd,Lekino brdo
+19335,stan,prodaja,40.0,2019,,,2.0,True,Centralno,2.0,,125000.0,Beograd,Lekino brdo
+18848,stan,prodaja,68.0,2019,,,1.0,True,"Centralno, Samostalno, Klima",3.0,,123700.0,Beograd,Autokomanda
+1750,stan,prodaja,68.0,2019,,,1.0,True,"Centralno, Samostalno, Klima",3.0,,123700.0,Beograd,Autokomanda
+19641,stan,prodaja,62.0,2019,,,4.0,False,Samostalno,3.0,,122760.0,Beograd,Učiteljsko naselje
+3392,stan,prodaja,62.0,2019,,,4.0,False,Samostalno,3.0,,122760.0,Beograd,Učiteljsko naselje
+2346,stan,prodaja,61.0,2019,,,,True,Samostalno,3.0,1.0,122000.0,Beograd,Neimar
+5467,stan,prodaja,63.0,2019,,,5.0,False,Samostalno,3.0,,121890.0,Beograd,Kluz
+12238,kuca,prodaja,110.0,2019,,,,True,"Samostalno, Klima",3.0,2.0,120000.0,Zlatibor,Centar
+9352,stan,prodaja,54.0,2019,,,4.0,True,Samostalno,1.0,1.0,119900.0,Beograd,Cvetni trg
+9116,stan,prodaja,54.0,2019,,,4.0,True,Samostalno,1.0,1.0,119900.0,Beograd,Cvetni trg
+19007,stan,prodaja,63.0,2019,,4.0,2.0,True,,3.0,,119658.0,Beograd,Lekino brdo
+1895,stan,prodaja,63.0,2019,,4.0,2.0,True,,3.0,,119658.0,Beograd,Lekino brdo
+20948,stan,prodaja,30.0,2019,,,2.0,False,"Centralno, Klima",1.0,1.0,119000.0,Beograd,Novi Beograd Blok 65
+22131,stan,prodaja,72.0,2019,,,3.0,True,Samostalno,4.0,,118000.0,Beograd,Lekino brdo
+5384,stan,prodaja,72.0,2019,,,3.0,True,Samostalno,4.0,,118000.0,Beograd,Lekino brdo
+2316,stan,prodaja,88.0,2019,,,,True,Samostalno,3.0,1.0,118000.0,Beograd,Pregrevica
+16695,kuca,prodaja,76.0,2019,,,,False,Samostalno,,,117400.0,Zlatibor,Čolovića brdo
+5489,stan,prodaja,60.0,2019,,,5.0,False,Samostalno,2.0,,116356.0,Beograd,Kluz
+19648,stan,prodaja,62.0,2019,,,2.0,False,Samostalno,3.0,,115940.0,Beograd,Učiteljsko naselje
+3399,stan,prodaja,62.0,2019,,,2.0,False,Samostalno,3.0,,115940.0,Beograd,Učiteljsko naselje
+2341,stan,prodaja,62.0,2019,,,2.0,False,Samostalno,3.0,1.0,115940.0,Beograd,Cvetkova pijaca
+8425,stan,prodaja,62.0,2019,,,2.0,False,"Samostalno, Klima",3.0,1.0,115940.0,Beograd,Učiteljsko naselje
+4192,stan,prodaja,59.0,2019,,,,True,"Centralno, Klima",2.0,,115050.0,Beograd,Vračar (Centar)
+11000,stan,prodaja,63.0,2019,,,5.0,True,Centralno,3.0,,115000.0,Beograd,Zvezdara
+4288,stan,prodaja,93.0,2019,,,,True,Samostalno,4.0,,111600.0,Beograd,Mirijevo I
+7814,stan,prodaja,56.0,2019,,,3.0,True,Centralno,2.0,1.0,110000.0,Beograd,Trošarina
+5366,stan,prodaja,56.0,2019,,,3.0,True,Samostalno,2.0,,110000.0,Beograd,Voždovac
+7807,stan,prodaja,56.0,2019,,,3.0,True,Centralno,2.0,1.0,110000.0,Beograd,Trošarina
+18914,stan,prodaja,64.0,2019,,,2.0,True,"Centralno, Klima",3.0,,108100.0,Beograd,Cvetkova pijaca
+1803,stan,prodaja,64.0,2019,,,2.0,True,"Centralno, Klima",3.0,,108100.0,Beograd,Cvetkova pijaca
+9309,stan,prodaja,78.0,2019,,,3.0,True,Samostalno,3.0,1.0,107690.0,Beograd,Mirijevo I
+9633,stan,prodaja,76.0,2019,,,3.0,True,Samostalno,3.0,2.0,106000.0,Beograd,Kluz
+5463,stan,prodaja,62.0,2019,,,2.0,False,Samostalno,3.0,,105400.0,Beograd,Kluz
+18819,stan,prodaja,53.0,2019,,4.0,3.0,True,Centralno,4.0,3.0,105000.0,Beograd,Lekino brdo
+1708,stan,prodaja,53.0,2019,,4.0,3.0,True,Centralno,4.0,3.0,105000.0,Beograd,Lekino brdo
+2823,stan,prodaja,33.0,2019,,,3.0,True,Centralno,1.0,,105000.0,Beograd,Novi Beograd Blok 67a
+7808,stan,prodaja,54.0,2019,,,2.0,False,"Samostalno, Klima",2.0,1.0,104000.0,Beograd,Voždovac
+11202,stan,prodaja,57.0,2019,,,3.0,True,Samostalno,2.0,,102600.0,Beograd,Zvezdara
+5471,stan,prodaja,62.0,2019,,,3.0,True,Samostalno,3.0,,102000.0,Beograd,Lekino brdo
+2752,stan,prodaja,63.0,2019,,,2.0,True,Samostalno,3.0,,100500.0,Zlatibor,Centar
+5358,stan,prodaja,77.0,2019,,,,False,Samostalno,2.0,,100000.0,Beograd,Autokomanda
+22149,stan,prodaja,77.0,2019,,,,False,Samostalno,2.0,,100000.0,Beograd,Autokomanda
+9458,stan,prodaja,66.0,2019,,,1.0,False,Centralno,3.0,1.0,99000.0,Beograd,Rakovica
+9462,stan,prodaja,79.0,2019,,,2.0,True,Samostalno,3.0,1.0,94800.0,Beograd,Karaburma
+6323,stan,prodaja,77.0,2019,,,,False,,4.0,2.0,94650.0,Novi Sad,
+9435,stan,prodaja,62.0,2019,,,,False,Centralno,3.0,1.0,93500.0,Beograd,Rakovica
+9130,stan,prodaja,62.0,2019,,,,False,Centralno,3.0,1.0,93500.0,Beograd,Rakovica
+2658,stan,prodaja,85.0,2019,,,4.0,True,Samostalno,4.0,,92000.0,Beograd,Voždovac
+5351,stan,prodaja,73.0,2019,,,,False,Samostalno,2.0,,91000.0,Beograd,Autokomanda
+22183,stan,prodaja,73.0,2019,,,,False,Samostalno,2.0,,91000.0,Beograd,Autokomanda
+2379,stan,prodaja,70.0,2019,,,,True,Samostalno,3.0,1.0,90930.0,Beograd,Ledine
+8548,stan,prodaja,39.0,2019,,,1.0,False,Centralno,2.0,1.0,88000.0,Beograd,Južni bulevar
+6330,stan,prodaja,68.0,2019,,,,False,,3.0,2.0,87270.0,Novi Sad,Telep
+9572,stan,prodaja,67.0,2019,,,,True,Samostalno,3.0,1.0,87100.0,Beograd,Mirijevo I
+8911,stan,prodaja,39.0,2019,,,1.0,True,Centralno,2.0,1.0,85000.0,Beograd,Crveni krst
+5613,stan,prodaja,39.0,2019,,,,True,Centralno,2.0,,85000.0,Beograd,Crveni krst
+2807,stan,prodaja,47.0,2019,,,,True,Samostalno,2.0,,82720.0,Zlatibor,Centar
+5621,stan,prodaja,27.0,2019,,,1.0,False,Centralno,1.0,,82500.0,Beograd,Gornji Dorćol
+6882,stan,prodaja,87.0,2019,,,4.0,True,Samostalno,3.0,1.0,82500.0,Pančevo,Centar
+2815,stan,prodaja,27.0,2019,,,1.0,False,Centralno,1.0,,82000.0,Beograd,Stari Grad
+5458,stan,prodaja,65.0,2019,,,3.0,False,Centralno,3.0,,82000.0,Beograd,Višnjička banja
+3370,stan,prodaja,67.0,2019,,,2.0,True,Samostalno,3.0,,80400.0,Beograd,Mirijevo I
+19616,stan,prodaja,67.0,2019,,,2.0,True,Samostalno,3.0,,80400.0,Beograd,Mirijevo I
+9461,stan,prodaja,67.0,2019,,,2.0,True,Samostalno,3.0,1.0,80400.0,Beograd,Karaburma
+4293,stan,prodaja,64.0,2019,,,2.0,False,Samostalno,3.0,,78000.0,Beograd,Zvezdara
+2381,stan,prodaja,60.0,2019,,,,True,Samostalno,3.0,1.0,77950.0,Beograd,Ledine
+4347,stan,prodaja,64.0,2019,,,1.0,False,Samostalno,3.0,,77800.0,Beograd,Zvezdara
+4308,stan,prodaja,63.0,2019,,,3.0,False,Samostalno,3.0,,76400.0,Beograd,Zvezdara
+4295,stan,prodaja,63.0,2019,,,4.0,False,Samostalno,3.0,,76300.0,Beograd,Zvezdara
+10314,stan,prodaja,29.0,2019,,,2.0,False,Samostalno,1.0,1.0,75000.0,Beograd,Profesorska kolonija
+8513,stan,prodaja,46.0,2019,,,,True,Samostalno,3.0,1.0,75000.0,Beograd,Autokomanda
+10227,stan,prodaja,29.0,2019,,,2.0,False,Samostalno,1.0,1.0,75000.0,Beograd,Profesorska kolonija
+4312,stan,prodaja,60.0,2019,,,1.0,False,Samostalno,3.0,,73000.0,Beograd,Zvezdara
+4281,stan,prodaja,60.0,2019,,,,True,Samostalno,3.0,,72000.0,Beograd,Mirijevo I
+9576,stan,prodaja,55.0,2019,,,1.0,True,Samostalno,2.0,1.0,71500.0,Beograd,Mirijevo I
+2215,stan,prodaja,36.0,2019,,,7.0,True,Klima,2.0,1.0,71500.0,Beograd,Zemun (Gornji grad)
+9137,stan,prodaja,62.0,2019,,,3.0,False,Samostalno,3.0,1.0,68200.0,Beograd,Ledine
+9443,stan,prodaja,62.0,2019,,,3.0,False,Samostalno,3.0,1.0,68200.0,Beograd,Ledine
+3206,stan,prodaja,54.0,2019,,,1.0,False,Samostalno,2.0,,68000.0,Beograd,Karaburma
+19459,stan,prodaja,54.0,2019,,,1.0,False,Samostalno,2.0,,68000.0,Beograd,Karaburma
+2325,stan,prodaja,61.0,2019,,,3.0,True,Samostalno,3.0,1.0,67980.0,Beograd,Ledine
+7127,stan,prodaja,39.0,2019,,,4.0,False,"Centralno, Klima",2.0,1.0,66430.0,Novi Sad,Telep
+9573,stan,prodaja,50.0,2019,,,1.0,True,Samostalno,2.0,1.0,65000.0,Beograd,Mirijevo I
+19619,stan,prodaja,59.0,2019,,,,True,Samostalno,2.0,,64900.0,Beograd,Mirijevo I
+3360,stan,prodaja,59.0,2019,,,,True,Samostalno,2.0,,64900.0,Beograd,Mirijevo I
+4208,stan,prodaja,59.0,2019,,,1.0,False,Samostalno,3.0,,64900.0,Beograd,Voždovac
+6415,stan,prodaja,40.0,2019,,,1.0,False,Klima,2.0,1.0,64890.0,Novi Sad,Telep
+2816,stan,prodaja,34.0,2019,,,2.0,True,Samostalno,1.0,,63580.0,Zlatibor,Centar
+2301,stan,prodaja,50.0,2019,,,1.0,False,Samostalno,3.0,1.0,63250.0,Beograd,Mirijevo I
+4299,stan,prodaja,58.0,2019,,,4.0,False,Samostalno,2.0,,63250.0,Beograd,Voždovac
+9626,stan,prodaja,67.0,2019,,,4.0,False,Samostalno,3.0,1.0,62300.0,Beograd,Borča I
+20186,stan,prodaja,74.0,2019,,,1.0,True,Centralno,4.0,2.0,59200.0,Loznica,Šulovača
+9618,stan,prodaja,68.0,2019,,,7.0,False,Samostalno,3.0,1.0,57800.0,Beograd,Borča I
+4302,stan,prodaja,47.0,2019,,,4.0,False,Samostalno,2.0,,57300.0,Beograd,Zvezdara
+4290,stan,prodaja,47.0,2019,,,,False,Samostalno,2.0,,57000.0,Beograd,Zvezdara
+4334,stan,prodaja,47.0,2019,,,2.0,False,Samostalno,2.0,,57000.0,Beograd,Zvezdara
+4311,stan,prodaja,47.0,2019,,,,True,Samostalno,2.0,,56400.0,Beograd,Višnjička banja
+7040,stan,prodaja,31.0,2019,,,,True,"Centralno, Klima",2.0,1.0,55870.0,Novi Sad,Salajka
+4286,stan,prodaja,44.0,2019,,,,False,Samostalno,2.0,,55500.0,Beograd,Zvezdara
+18818,kuca,prodaja,34.0,2019,10000.0,3.0,1.0,True,Samostalno,1.0,1.0,55000.0,Zlatibor,Centar
+1707,kuca,prodaja,34.0,2019,10000.0,3.0,1.0,True,Samostalno,1.0,1.0,55000.0,Zlatibor,Centar
+9442,stan,prodaja,49.0,2019,,,2.0,False,Samostalno,2.0,1.0,53900.0,Beograd,Ledine
+9136,stan,prodaja,49.0,2019,,,2.0,False,Samostalno,2.0,1.0,53900.0,Beograd,Ledine
+4338,stan,prodaja,43.0,2019,,,3.0,False,Samostalno,2.0,,52500.0,Beograd,Zvezdara
+4152,stan,prodaja,50.0,2019,,,,True,Samostalno,3.0,,52500.0,Beograd,Mirijevo I
+4219,stan,prodaja,45.0,2019,,,3.0,False,Samostalno,2.0,,51750.0,Beograd,Voždovac
+8520,stan,prodaja,66.0,2019,,,1.0,True,Samostalno,3.0,1.0,51480.0,Mladenovac (varoš),
+18807,stan,prodaja,32.0,2019,,5.0,1.0,True,Samostalno,2.0,1.0,51200.0,Kopaonik,
+1695,stan,prodaja,32.0,2019,,5.0,1.0,True,Samostalno,2.0,1.0,51200.0,Kopaonik,
+1886,stan,prodaja,30.0,2019,,,,True,,,,50600.0,Zlatibor,Đurkovac
+18998,stan,prodaja,30.0,2019,,,,True,,,,50600.0,Zlatibor,Đurkovac
+4178,stan,prodaja,48.0,2019,,,,True,Samostalno,3.0,,50400.0,Beograd,Mirijevo I
+8888,stan,prodaja,38.0,2019,,,1.0,False,Samostalno,2.0,1.0,48000.0,Beograd,Mirijevo I
+3125,stan,prodaja,38.0,2019,,,,True,Samostalno,2.0,,48000.0,Beograd,Šumice
+19380,stan,prodaja,38.0,2019,,,,True,Samostalno,2.0,,48000.0,Beograd,Šumice
+19359,stan,prodaja,38.0,2019,,,,True,Samostalno,2.0,,48000.0,Beograd,Šumice
+19356,stan,prodaja,38.0,2019,,,,True,Samostalno,2.0,,48000.0,Beograd,Šumice
+19321,stan,prodaja,38.0,2019,,,,True,Samostalno,2.0,,48000.0,Beograd,Šumice
+3112,stan,prodaja,48.0,2019,,,5.0,False,Samostalno,2.0,,47444.0,Beograd,Borča I
+19345,stan,prodaja,48.0,2019,,,5.0,False,Samostalno,2.0,,47444.0,Beograd,Borča I
+19305,stan,prodaja,48.0,2019,,,5.0,False,Samostalno,2.0,,47444.0,Beograd,Borča I
+4171,stan,prodaja,44.0,2019,,,,True,Samostalno,2.0,,46200.0,Beograd,Mirijevo I
+19071,stan,prodaja,35.0,2019,,3.0,,True,Samostalno,,,45500.0,Zlatibor,Čolovića brdo
+1956,stan,prodaja,35.0,2019,,3.0,,True,Samostalno,,,45500.0,Zlatibor,Čolovića brdo
+1531,stan,prodaja,41.0,2019,,6.0,1.0,True,,1.0,,45000.0,Beograd,Mirijevo IV
+4301,stan,prodaja,37.0,2019,,,4.0,False,Samostalno,1.0,,44900.0,Beograd,Zvezdara
+4212,stan,prodaja,41.0,2019,,,,False,Samostalno,2.0,,44000.0,Beograd,Voždovac
+4203,stan,prodaja,40.0,2019,,,1.0,True,Samostalno,2.0,,44000.0,Beograd,Mirijevo I
+4297,stan,prodaja,36.0,2019,,,2.0,False,Samostalno,1.0,,44000.0,Beograd,Zvezdara
+4315,stan,prodaja,36.0,2019,,,,False,Samostalno,1.0,,43700.0,Beograd,Zvezdara
+4345,stan,prodaja,36.0,2019,,,,False,Samostalno,1.0,,43700.0,Beograd,Zvezdara
+4309,stan,prodaja,36.0,2019,,,3.0,False,Samostalno,1.0,,43700.0,Beograd,Zvezdara
+19614,stan,prodaja,48.0,2019,,,,True,Samostalno,3.0,,43600.0,Beograd,Zemun Polje
+3356,stan,prodaja,48.0,2019,,,,True,Samostalno,3.0,,43600.0,Beograd,Zemun Polje
+4317,stan,prodaja,36.0,2019,,,,True,Samostalno,2.0,,43200.0,Beograd,Višnjička banja
+4162,stan,prodaja,40.0,2019,,,,True,Samostalno,2.0,,42000.0,Beograd,Mirijevo I
+8901,stan,prodaja,32.0,2019,,,1.0,False,Samostalno,2.0,1.0,40500.0,Beograd,Mirijevo I
+1743,stan,prodaja,47.0,2019,,5.0,2.0,False,,2.0,,39950.0,Loznica,Centar
+18841,stan,prodaja,47.0,2019,,5.0,2.0,False,,2.0,,39950.0,Loznica,Centar
+8542,stan,prodaja,52.0,2019,,,,True,Samostalno,3.0,1.0,37440.0,Mladenovac (varoš),
+4318,stan,prodaja,31.0,2019,,,,True,Samostalno,2.0,,37200.0,Beograd,Višnjička banja
+8902,stan,prodaja,29.0,2019,,,,False,Samostalno,2.0,1.0,36900.0,Beograd,Mirijevo I
+4167,stan,prodaja,35.0,2019,,,,True,Samostalno,2.0,,36750.0,Beograd,Mirijevo I
+9436,stan,prodaja,33.0,2019,,,,True,Samostalno,1.0,1.0,36300.0,Beograd,Karaburma
+9131,stan,prodaja,33.0,2019,,,,True,Samostalno,1.0,1.0,36300.0,Beograd,Karaburma
+9110,stan,prodaja,31.0,2019,,,,True,Samostalno,1.0,1.0,36000.0,Beograd,Mirijevo I
+20941,stan,prodaja,31.0,2019,,,,True,Samostalno,1.0,1.0,36000.0,Beograd,Mirijevo I
+9346,stan,prodaja,31.0,2019,,,,True,Samostalno,1.0,1.0,36000.0,Beograd,Mirijevo I
+9620,stan,prodaja,34.0,2019,,,7.0,False,Samostalno,2.0,1.0,28900.0,Beograd,Borča I
+9187,stan,prodaja,34.0,2019,,,7.0,False,Samostalno,2.0,1.0,28900.0,Beograd,Borča I
+19154,stan,prodaja,34.0,2019,,,7.0,False,Samostalno,2.0,1.0,28900.0,Beograd,Borča I
+16568,kuca,izdavanje,826.0,2019,,,2.0,True,,7.0,,10000.0,Beograd,Senjak
+1877,stan,prodaja,78.0,2019,,,2.0,False,Samostalno,,,1850.0,Beograd,Voždovac
+18991,stan,prodaja,110.0,2019,,4.0,4.0,False,Samostalno,4.0,,1850.0,Beograd,Voždovac
+1879,stan,prodaja,110.0,2019,,4.0,4.0,False,Samostalno,4.0,,1850.0,Beograd,Voždovac
+18989,stan,prodaja,78.0,2019,,,2.0,False,Samostalno,,,1850.0,Beograd,Voždovac
+1878,stan,prodaja,119.0,2019,,,,False,Samostalno,4.0,,1850.0,Beograd,Voždovac
+18990,stan,prodaja,119.0,2019,,,,False,Samostalno,4.0,,1850.0,Beograd,Voždovac
+1586,stan,prodaja,,2019,,5.0,,False,Centralno,,,1815.0,Beograd,Cvetkova pijaca
+18719,stan,prodaja,,2019,,5.0,,False,Centralno,,,1815.0,Beograd,Cvetkova pijaca
+7610,stan,izdavanje,90.0,2019,,,13.0,False,"Centralno, Klima",4.0,2.0,1800.0,Beograd,Beograd na vodi
+1880,stan,prodaja,89.0,2019,,4.0,4.0,True,,3.0,,1750.0,Beograd,Voždovac
+18992,stan,prodaja,89.0,2019,,4.0,4.0,True,,3.0,,1750.0,Beograd,Voždovac
+18837,stan,prodaja,47.0,2019,,2.0,,True,"Podno, Samostalno",2.0,1.0,1600.0,Zlatibor,Centar
+7631,stan,izdavanje,80.0,2019,,,12.0,False,"Centralno, Klima",3.0,2.0,1600.0,Beograd,Beograd na vodi
+1739,stan,prodaja,47.0,2019,,2.0,,True,"Podno, Samostalno",2.0,1.0,1600.0,Zlatibor,Centar
+18860,stan,prodaja,37.0,2019,,3.0,,True,Centralno,2.0,1.0,1500.0,Zlatibor,Obudojevica
+1760,stan,prodaja,37.0,2019,,3.0,,True,Centralno,2.0,1.0,1500.0,Zlatibor,Obudojevica
+18838,stan,prodaja,63.0,2019,,,,True,"Podno, Samostalno",3.0,2.0,1450.0,Zlatibor,Centar
+1740,stan,prodaja,63.0,2019,,,,True,"Podno, Samostalno",3.0,2.0,1450.0,Zlatibor,Centar
+18637,kuca,prodaja,,2019,41.0,4.0,1.0,True,"Samostalno, Klima",2.0,1.0,1200.0,Zlatibor,Palisad
+8422,stan,izdavanje,89.0,2019,,,7.0,False,"Centralno, Klima",3.0,2.0,1200.0,Beograd,Beograd na vodi
+2652,stan,izdavanje,83.0,2019,,,14.0,False,Centralno,3.0,,1200.0,Beograd,Beograd na vodi
+5735,stan,izdavanje,81.0,2019,,,2.0,False,,3.0,2.0,1200.0,Beograd,Beograd na vodi
+1458,kuca,prodaja,,2019,41.0,4.0,1.0,True,"Samostalno, Klima",2.0,1.0,1200.0,Zlatibor,Palisad
+8432,stan,izdavanje,82.0,2019,,,8.0,False,"Centralno, Klima",3.0,3.0,1150.0,Beograd,Beograd na vodi
+6970,stan,izdavanje,81.0,2019,,,2.0,False,"Centralno, Klima",3.0,2.0,1100.0,Beograd,Beograd na vodi
+8403,stan,izdavanje,82.0,2019,,,1.0,False,"Centralno, Klima",3.0,2.0,1050.0,Beograd,Beograd na vodi
+19257,stan,izdavanje,61.0,2019,,,4.0,False,Centralno,2.0,,1000.0,Beograd,
+19258,stan,izdavanje,61.0,2019,,,4.0,False,Centralno,2.0,,1000.0,Beograd,
+3047,stan,izdavanje,61.0,2019,,,4.0,False,Centralno,2.0,,1000.0,Beograd,
+2735,stan,izdavanje,70.0,2019,,,2.0,False,Centralno,2.0,,950.0,Beograd,Beograd na vodi
+5734,stan,izdavanje,69.67,2019,,,5.0,False,Klima,2.0,,900.0,Beograd,Beograd na vodi
+7625,stan,izdavanje,56.0,2019,,,11.0,False,"Centralno, Klima",2.0,1.0,900.0,Beograd,Beograd na vodi
+3902,stan,izdavanje,54.0,2019,,,4.0,False,"Centralno, Klima",2.0,1.0,850.0,Beograd,Beograd na vodi
+3897,stan,izdavanje,54.0,2019,,,4.0,False,"Centralno, Klima",2.0,1.0,850.0,Beograd,Beograd na vodi
+9402,stan,izdavanje,80.0,2019,,,3.0,False,"Centralno, Klima",3.0,2.0,800.0,Beograd,Slavija
+4139,stan,izdavanje,50.0,2019,,,3.0,False,"Centralno, Klima",2.0,,550.0,Beograd,Vračar (Centar)
+8766,stan,izdavanje,50.0,2019,,,4.0,False,"Centralno, Klima",2.0,1.0,500.0,Novi Sad,Centar
+8407,stan,izdavanje,34.0,2019,,,2.0,False,"Centralno, Klima",1.0,1.0,500.0,Beograd,Novi Beograd Blok 67a
+19637,stan,izdavanje,40.0,2019,,,,False,Centralno,2.0,,400.0,Beograd,Crveni krst
+3383,stan,izdavanje,40.0,2019,,,,False,Centralno,2.0,,400.0,Beograd,Crveni krst
+3226,stan,izdavanje,44.0,2019,,,,False,Samostalno,1.0,,400.0,Beograd,Lion
+19485,stan,izdavanje,44.0,2019,,,,False,Samostalno,1.0,,400.0,Beograd,Lion
+7099,stan,izdavanje,47.0,2019,,,6.0,False,"Centralno, Klima",2.0,1.0,400.0,Novi Sad,Grbavica
+9343,stan,izdavanje,44.0,2019,,,1.0,False,Samostalno,2.0,1.0,400.0,Beograd,Voždovac
+8799,stan,izdavanje,66.0,2019,,,3.0,False,"Samostalno, Klima",3.0,1.0,350.0,Beograd,Zemun (Cara Dušana)
+1422,stan,izdavanje,55.0,2019,,,1.0,False,"Samostalno, Klima",2.0,1.0,280.0,Beograd,Ledine
+18600,stan,izdavanje,55.0,2019,,,1.0,False,"Samostalno, Klima",2.0,1.0,280.0,Beograd,Ledine
