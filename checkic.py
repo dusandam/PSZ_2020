@@ -3,7 +3,7 @@ import psycopg2
 
 class Repository:
 
-    def insert_data(self, data):
+    def insert_data(self):
         connection = None
         try:
             connection=psycopg2.connect(user="dusandam",
@@ -14,28 +14,10 @@ class Repository:
 
             cursor=connection.cursor()
 
-            insert_into_query='INSERT INTO "realty"(' \
-                              'type,' \
-                              'offer_type,' \
-                              'square_meters,' \
-                              'year_built,' \
-                              'land_area,' \
-                              'total_floors,' \
-                              'floor,' \
-                              'registered,' \
-                              'heating_type,' \
-                              'total_rooms,' \
-                              'total_bathrooms,' \
-                              'price,' \
-                              'city,'\
-                              'quarter,' \
-                              'webpage)' \
-                              'VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)'
+            insert_into_query='select count(*) from "realty"'
 
-            cursor.execute(insert_into_query, data)
-            connection.commit()
-            # print("Data imported: ", data)
-
+            cursor.execute(insert_into_query)
+            print(cursor.fetchall())
         except (Exception, psycopg2.DatabaseError) as error:
             print("Error importing data", error)
         finally:
@@ -67,3 +49,5 @@ class Repository:
             if (connection):
                 cursor.close()
                 connection.close()
+
+    insert_data(None)

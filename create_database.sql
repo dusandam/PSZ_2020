@@ -1,4 +1,4 @@
-CREATE TABLE "Realty"
+CREATE TABLE "realty"
 (
  "realty_id"       integer NOT NULL GENERATED ALWAYS AS IDENTITY (
  start 1
@@ -17,6 +17,7 @@ CREATE TABLE "Realty"
  "price"           float NULL,
  "city"        varchar(50) NULL,
  "quarter"     varchar(50) NULL,
+ "webpage"     varchar(50) NULL,
  CONSTRAINT "PK_Supplier" PRIMARY KEY ( "realty_id" )
 );
 
