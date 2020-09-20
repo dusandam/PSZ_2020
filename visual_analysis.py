@@ -7,9 +7,6 @@ if sys.version_info[:2] < (3, 0):
     code=subprocess.call(['python3'] + sys.argv)
     raise SystemExit(code)
 
-import matplotlib.pyplot as plt
-import pandas as pd
-import os
 
 # ZADATAK 3, UPITI
 

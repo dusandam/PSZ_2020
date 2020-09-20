@@ -94,7 +94,7 @@ def populate():
                             contents_=realty_props.contents[1::2]
                         except:
                             print('no content')
-                            continue;
+                            continue
                         for content in contents_:
                             if 'Transakcija' in content.contents[0]:
                                 if 'Prodaja' in content.contents[0]:
