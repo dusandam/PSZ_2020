@@ -59,8 +59,8 @@ class TestRegression:
     # divide data to test and train sets
     X1 = df[['square_meters', 'year_built']].astype(float)
     X1 = normalize(X1)
-    X1_train, X1_test=train_test_split(X1, test_size=0.2, random_state=1234)
-    Y_train, Y_test=train_test_split(Y, test_size=0.2, random_state=1234)
+    X1_train, X1_test=train_test_split(X1, test_size=0.2, random_state=1)
+    Y_train, Y_test=train_test_split(Y, test_size=0.2, random_state=1)
 
 
     # normalize values
