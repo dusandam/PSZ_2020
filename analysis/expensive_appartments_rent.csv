@@ -1,101 +1,101 @@
-realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter
-4459,stan,izdavanje,500.0,,,,1.0,False,,4.0,1.0,7500.0,Beograd,Dedinje (25. maj)
-14785,stan,izdavanje,900.0,,,3.0,,True,"Centralno, Klima",15.0,,5400.0,Beograd,Voždovac
-4549,stan,izdavanje,212.0,,,,5.0,False,"Centralno, Klima",4.0,4.0,5000.0,Beograd,Vračar (Hram)
-5686,stan,izdavanje,400.0,,,,,False,Centralno,7.0,1.0,5000.0,Beograd,Senjak
-4547,stan,izdavanje,303.0,,,,7.0,False,,4.0,3.0,4500.0,Beograd,Vračar (Hram)
-18966,stan,izdavanje,298.0,,,7.0,7.0,False,Centralno,,,4500.0,Beograd,Vračar (Hram)
-19355,stan,izdavanje,1000.0,2020,,,,False,Samostalno,1.0,,4000.0,Pećinci,
-19312,stan,izdavanje,1000.0,2020,,,,False,Samostalno,1.0,,4000.0,Pećinci,
-18736,stan,izdavanje,200.0,,,,5.0,False,Centralno,,,4000.0,Beograd,Vračar (Hram)
-14956,stan,izdavanje,250.0,1935,,,,True,Klima,4.0,1.0,4000.0,Beograd,Senjak
-19378,stan,izdavanje,1000.0,2020,,,,False,Samostalno,1.0,,4000.0,Pećinci,
-3114,stan,izdavanje,1000.0,2020,,,,False,Samostalno,1.0,,4000.0,Pećinci,
-1602,stan,izdavanje,200.0,,,,5.0,False,Centralno,,,4000.0,Beograd,Vračar (Hram)
-18273,stan,izdavanje,430.0,1932,,,,False,Klima,10.0,3.0,3800.0,Beograd,Voždovac
-2509,stan,izdavanje,214.0,2018,,,7.0,False,Centralno,3.0,,3500.0,Beograd,Centar (uži)
-18768,stan,izdavanje,214.0,,,,7.0,False,Centralno,,,3500.0,Beograd,Centar (uži)
-1637,stan,izdavanje,214.0,,,,7.0,False,Centralno,,,3500.0,Beograd,Centar (uži)
-18763,stan,izdavanje,180.0,,,,,False,Centralno,,,3300.0,Beograd,Dedinje (RTV Pink)
-1632,stan,izdavanje,180.0,,,,,False,Centralno,,,3300.0,Beograd,Dedinje (RTV Pink)
-18898,stan,izdavanje,380.0,,,,7.0,False,Centralno,,,3200.0,Beograd,Autokomanda
-1656,stan,izdavanje,130.0,,,,1.0,False,Centralno,3.0,,3200.0,Beograd,Vračar (Hram)
-1650,stan,izdavanje,120.0,,,,1.0,False,Centralno,,,3200.0,Beograd,Vračar (Hram)
-18787,stan,izdavanje,130.0,,,,1.0,False,Centralno,3.0,,3200.0,Beograd,Vračar (Hram)
-18781,stan,izdavanje,120.0,,,,1.0,False,Centralno,,,3200.0,Beograd,Vračar (Hram)
-1645,stan,izdavanje,160.0,,,,3.0,False,Centralno,,,3000.0,Beograd,Vračar (Hram)
-18776,stan,izdavanje,160.0,,,,3.0,False,Centralno,,,3000.0,Beograd,Vračar (Hram)
-1644,stan,izdavanje,150.0,,,,,False,Centralno,,,3000.0,Beograd,Vračar (Hram)
-5822,stan,izdavanje,205.0,,,,4.0,False,"Samostalno, Klima",5.0,5.0,3000.0,Beograd,Vračar (Centar)
-18775,stan,izdavanje,150.0,,,,,False,Centralno,,,3000.0,Beograd,Vračar (Hram)
-2514,stan,izdavanje,236.0,2012,,,3.0,False,Samostalno,4.0,,3000.0,Beograd,Tašmajdan
-21061,stan,izdavanje,127.0,,,,7.0,False,Centralno,4.0,1.0,3000.0,Beograd,Đeram pijaca
-11103,stan,izdavanje,125.0,,,,15.0,False,,4.0,,3000.0,Beograd,Centar (uži)
-9757,stan,izdavanje,127.0,,,,7.0,False,Centralno,4.0,1.0,3000.0,Beograd,Đeram pijaca
-21003,stan,izdavanje,127.0,,,,7.0,False,Centralno,4.0,1.0,3000.0,Beograd,Đeram pijaca
-4272,stan,izdavanje,240.0,,,,4.0,False,"Samostalno, Klima",4.0,,2900.0,Beograd,Dedinje (RTV Pink)
-1676,stan,izdavanje,169.0,,,,,True,Samostalno,4.0,,2800.0,Beograd,Vračar (Hram)
-5813,stan,izdavanje,170.0,,,,2.0,False,"Samostalno, Klima",4.0,3.0,2800.0,Beograd,Vračar (Hram)
-1633,stan,izdavanje,140.0,,,,4.0,False,Centralno,,,2800.0,Beograd,Vračar (Hram)
-18033,stan,izdavanje,230.0,2000,,,,True,Klima,5.0,2.0,2800.0,Beograd,Senjak
-18398,stan,izdavanje,169.0,,,,,True,Samostalno,4.0,,2800.0,Beograd,Vračar (Hram)
-18764,stan,izdavanje,140.0,,,,4.0,False,Centralno,,,2800.0,Beograd,Vračar (Hram)
-18923,stan,izdavanje,192.0,,,,8.0,False,Centralno,,,2700.0,Beograd,Tašmajdan
-2511,stan,izdavanje,262.0,,,,2.0,False,Samostalno,5.0,,2700.0,Beograd,Dedinje (Beli dvor)
-1816,stan,izdavanje,192.0,,,,8.0,False,Centralno,,,2700.0,Beograd,Tašmajdan
-4872,stan,izdavanje,200.0,,,,4.0,False,"Centralno, Klima",5.0,1.0,2700.0,Beograd,Vračar (Hram)
-8442,stan,izdavanje,192.0,2018,,,8.0,False,"Centralno, Klima",4.0,3.0,2700.0,Beograd,Poštanska štedionica
-10802,stan,izdavanje,250.0,,,,1.0,False,"Centralno, Klima",5.0,1.0,2500.0,Beograd,Crveni krst
-10671,stan,izdavanje,150.0,,,,1.0,False,"Centralno, Klima",4.0,1.0,2500.0,Beograd,Dedinje (RTV Pink)
-5820,stan,izdavanje,170.0,,,,2.0,False,"Centralno, Klima",4.0,3.0,2500.0,Beograd,Vračar (Centar)
-6975,stan,izdavanje,118.0,2020,,,4.0,False,"Centralno, Klima",4.0,3.0,2500.0,Beograd,Senjak
-8485,stan,izdavanje,118.0,,,,4.0,False,"Centralno, Klima",4.0,2.0,2500.0,Beograd,Centar (uži)
-1642,stan,izdavanje,277.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
-1655,stan,izdavanje,144.0,,,,5.0,False,Centralno,3.0,,2500.0,Beograd,Vračar (Hram)
-1639,stan,izdavanje,125.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
-1648,stan,izdavanje,240.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
-8769,stan,izdavanje,118.0,2020,,,4.0,False,Klima,4.0,2.0,2500.0,Beograd,Senjak
-1641,stan,izdavanje,240.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
-18782,stan,izdavanje,144.0,,,,5.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
-19838,stan,izdavanje,123.0,2018,,,16.0,True,Centralno,4.0,,2500.0,Beograd,Beograd na vodi
-18773,stan,izdavanje,277.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
-18772,stan,izdavanje,240.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
-10712,stan,izdavanje,118.0,,,,11.0,False,"Centralno, Klima",4.0,1.0,2500.0,Beograd,Beograd na vodi
-5669,stan,izdavanje,170.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
-18770,stan,izdavanje,125.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
-3286,stan,izdavanje,118.0,2020,,,4.0,False,Centralno,4.0,,2500.0,Beograd,Beograđanka ( centar )
-18786,stan,izdavanje,144.0,,,,5.0,False,Centralno,3.0,,2500.0,Beograd,Vračar (Hram)
-1863,stan,izdavanje,165.0,,,,,False,Centralno,,,2500.0,Beograd,Dedinje (RTV Pink)
-4198,stan,izdavanje,155.0,,,,2.0,False,Klima,5.0,,2500.0,Beograd,Dedinje (RTV Pink)
-18779,stan,izdavanje,240.0,,,,4.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
-17704,stan,izdavanje,280.0,,,,,False,Klima,5.0,2.0,2500.0,Beograd,Savski venac
-4608,stan,izdavanje,300.0,,,,1.0,False,Klima,5.0,1.0,2500.0,Beograd,Dedinje (RTV Pink)
-8764,stan,izdavanje,260.0,,,,,False,"Centralno, Klima",7.0,2.0,2500.0,Beograd,Neimar
-3575,stan,izdavanje,123.0,2018,,,16.0,True,Centralno,4.0,,2500.0,Beograd,Beograd na vodi
-5762,stan,izdavanje,168.0,,,,2.0,False,Centralno,,,2500.0,Beograd,Vračar (Centar)
-16373,stan,izdavanje,400.0,,,,,False,,,,2500.0,Beograd,Stari Grad
-10954,stan,izdavanje,300.0,,,,1.0,False,Klima,5.0,,2500.0,Beograd,Dedinje (RTV Pink)
-4364,stan,izdavanje,143.0,,,,,False,"Samostalno, Klima",4.0,1.0,2500.0,Beograd,Dedinje (25. maj)
-9348,stan,izdavanje,125.0,,,,1.0,False,Samostalno,4.0,2.0,2500.0,Beograd,Čubura
-18983,stan,izdavanje,165.0,,,,,False,Centralno,,,2500.0,Beograd,Dedinje (RTV Pink)
-1766,stan,izdavanje,170.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
-1651,stan,izdavanje,144.0,,,,5.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
-9112,stan,izdavanje,125.0,,,,1.0,False,Samostalno,4.0,2.0,2500.0,Beograd,Čubura
-10557,stan,izdavanje,168.0,,,,2.0,False,"Centralno, Klima",3.0,1.0,2500.0,Beograd,Kalenić pijaca
-18866,stan,izdavanje,170.0,,,,3.0,False,Centralno,,,2500.0,Beograd,Vračar (Hram)
-19557,stan,izdavanje,118.0,2020,,,4.0,False,Centralno,4.0,,2500.0,Beograd,Beograđanka ( centar )
-20934,stan,izdavanje,125.0,,,,1.0,False,Samostalno,4.0,2.0,2500.0,Beograd,Čubura
-5792,stan,izdavanje,215.0,,,,2.0,False,"Centralno, Klima",4.0,2.0,2490.0,Beograd,Centar (uži)
-10790,stan,izdavanje,90.0,,,,23.0,False,"Centralno, Klima",3.0,1.0,2300.0,Beograd,Beograd na vodi
-2193,stan,izdavanje,170.0,,,,1.0,False,"Centralno, Klima",5.0,1.0,2300.0,Beograd,Dedinje (Beli dvor)
-2180,stan,izdavanje,170.0,,,,1.0,False,"Centralno, Klima",5.0,1.0,2300.0,Beograd,Dedinje (Beli dvor)
-2840,stan,izdavanje,147.0,1995,,,,False,Centralno,7.0,,2300.0,Beograd,Slavija
-19013,stan,izdavanje,150.0,,,,1.0,False,Centralno,,,2300.0,Beograd,Dedinje (Beli dvor)
-4542,stan,izdavanje,124.0,,,,15.0,False,"Centralno, Klima",4.0,1.0,2300.0,Beograd,Beograd na vodi
-9677,stan,izdavanje,230.0,,,,,False,Klima,5.0,2.0,2300.0,Beograd,Senjak
-10657,stan,izdavanje,123.0,,,,15.0,False,"Centralno, Klima",4.0,1.0,2300.0,Beograd,Beograd na vodi
-7390,stan,izdavanje,179.0,,,,6.0,False,Samostalno,4.0,2.0,2300.0,Beograd,Centar (uži)
-5003,stan,izdavanje,122.0,,,,15.0,False,Centralno,4.0,,2300.0,Beograd,Beograd na vodi
-1901,stan,izdavanje,150.0,,,,1.0,False,Centralno,,,2300.0,Beograd,Dedinje (Beli dvor)
-18892,stan,izdavanje,230.0,,,,3.0,False,Centralno,,,2300.0,Beograd,Vračar (Hram)
-18967,stan,izdavanje,160.0,,,,1.0,False,Centralno,,,2300.0,Beograd,Dedinje (RTV Pink)
+realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter,webpage
+6062,stan,izdavanje,380.0,2005,,3,3,,Podno,,,1000000.0,Beograd,Voždovac,https://www.nekretnine.rs/stambeni-objekti/stanovi/izuzetan-penthouse-sa-bazenom-u-bulevaru-oslobodenja/NklR_srbwX6/
+5766,stan,izdavanje,168.0,2007,,3,3,True,Centralno,,,499000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/izuzetan-stan-50-na-prestiznoj-lokaciji-dedinje/NkItDF2dBS/
+5423,stan,izdavanje,245.0,,,2,,True,Centralno,5,,470000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/50-miloja-daka-dedinje-245m2/NkIwVwk0BTM/
+2513,stan,izdavanje,29.0,,,6,3,True,Centralno,1,1,120000.0,Kopaonik,,https://www.nekretnine.rs/stambeni-objekti/stanovi/luksuzno-opremljen-apartman-u-centru-kopaonika/NkgUwPQHzaq/
+3183,stan,izdavanje,60.0,,,,,True,,,,100000.0,Beograd,Banovo brdo,https://www.nekretnine.rs/stambeni-objekti/stanovi/test-2/Nk-5Gt_hoOI/
+3437,stan,izdavanje,62.0,,,,2,True,Centralno,3,,92600.0,Novi Sad,Detelinara nova,https://www.nekretnine.rs/stambeni-objekti/stanovi/odlican-trosoban-stan-na-novoj-detelinari-/NkdOrjTaAT8/
+5620,stan,izdavanje,49.0,,,,8,True,"Centralno, Klima",2,,73500.0,Novi Sad,Liman 3,https://www.nekretnine.rs/stambeni-objekti/stanovi/liman-3-kompletno-renoviran-50mkv-73500e/NkE8-reWtQO/
+2499,stan,izdavanje,48.0,,,,,,Centralno,,,60350.0,Novi Sad,Petrovaradin,https://www.nekretnine.rs/stambeni-objekti/stanovi/nov-dvoiposoban-stan-povrat-pdv-a/NkaDgsI2xJk/
+5705,stan,izdavanje,76.0,,,,2,,Centralno,3,,35000.0,Novi Sad,Veternik,https://www.nekretnine.rs/stambeni-objekti/stanovi/hitna-prodaja-novi-sad-adice-trosoban-dupleks-ne-dovrsen-76m2-36000-e/NkAgLRkHdj/
+1648,stan,izdavanje,500.0,,,,1,,,4,1,7500.0,Beograd,Dedinje (25. maj),https://www.nekretnine.rs/stambeni-objekti/stanovi/dedinje-500m2-id27686/Nkc8MRlfpzT/
+5586,stan,izdavanje,370.0,,,,6,,Centralno,,,7400.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/vrhunski-penthaus-retko-u-ponudi/NkEJ8n3JDSO/
+5590,stan,izdavanje,370.0,,,6,6,,"Samostalno, Klima",5,,7400.0,Beograd,Čubura,https://www.nekretnine.rs/stambeni-objekti/stanovi/50-cara-nikolaja-ii-cubura-370m2/Nk7sHLmbJFi/
+5577,stan,izdavanje,370.0,,,6,6,,Podno,,,7400.0,Beograd,Kalenić pijaca,https://www.nekretnine.rs/stambeni-objekti/stanovi/vrhunski-penthaus-retko-u-ponudi/NkKmpu1W4r/
+16176,stan,izdavanje,900.0,,,3,,True,"Centralno, Klima",15,,5400.0,Beograd,Voždovac,https://www.nekretnine.rs/stambeni-objekti/kuce/kuca-jajinci-900m2-150/NkkW65FMEQp/
+5906,stan,izdavanje,220.0,,,6,5,True,Centralno,5,,5000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/lux-stan-kod-hrama/NklBi5uTApn/
+3279,stan,izdavanje,69.0,,,,7,,Centralno,3,,5000.0,Beograd,Zeleni venac,https://www.nekretnine.rs/stambeni-objekti/stanovi/69-m2-stan-zeleni-venac-agencijski-id-13999/NkIxMEcgj3/
+4748,stan,izdavanje,140.73,2019,,,18,,Klima,4,,5000.0,Beograd,Beograd na vodi,https://www.nekretnine.rs/stambeni-objekti/stanovi/savski-venac-beograd-stan-u-novogradnji-14073/NkcS8qaNfXz/
+933,stan,izdavanje,285.0,,,2,,,"Centralno, Klima",5,,5000.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/stanovi/luksuzni-penthaus-na-senjaku/Nk65MtDSFGb/
+5994,stan,izdavanje,270.0,,,,,,"Samostalno, Klima",4,4,5000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/40895-izdavanje-stan-dedinje-5000-eur/NkGrkjm88St/
+20,stan,izdavanje,212.0,,,,5,,Centralno,,,5000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/exclusive-40--two-garage-space--beautiful-terraces-vracar/NkNP_sCFD1f/
+1681,stan,izdavanje,400.0,,,,,,Centralno,7,1,5000.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/stanovi/senjak-id995/1181224/
+1611,stan,izdavanje,212.0,,,,5,,"Centralno, Klima",4,4,5000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/macvanska-mome-kapora-hram-id20222/NkV5UAevVGT/
+5686,stan,izdavanje,400.0,,,,,,"Samostalno, Klima",7,5,4500.0,Beograd,Voždovac,https://www.nekretnine.rs/stambeni-objekti/stanovi/40328-izdavanje-stan-vozdovac-4500-eur/NkbeW9EjJf/
+120,stan,izdavanje,298.0,,,7,7,,Centralno,,,4500.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/exclusive-penthouse--stunning-view-vracar/Nk8TABcLQb1/
+1612,stan,izdavanje,303.0,,,,7,,,4,3,4500.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/macvanska-mome-kapora-hram-id23451/Nka77PaLFMs/
+6165,stan,izdavanje,280.0,2019,,3,2,,,5,,4500.0,Beograd,Dedinje (25. maj),https://www.nekretnine.rs/stambeni-objekti/stanovi/lux-stan-na-dedinju/NkiNpNWG8AN/
+5408,stan,izdavanje,297.0,,,7,7,,,,,4500.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/lux-penthouse--prelepa-panorama-hram/NkBEKhLJPOy/
+5706,stan,izdavanje,162.0,,,,2,,Centralno,4,,4500.0,Beograd,Vračar (Centar),https://www.nekretnine.rs/stambeni-objekti/stanovi/hram-svetog-save-162m2-agencijski-id-7276/Nk6uZbqHj4/
+4089,stan,izdavanje,162.0,,,,,,,4,2,4300.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/stanovi/stan-za-izdavanje-senjak-162-m2-id-2774-1/NkTMryHl2_8/
+4501,stan,izdavanje,170.0,,,,-1,,"Samostalno, Klima",4,3,4300.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/stanovi/28060-izdavanje-stan-senjak-4300-eur/NkpfkhKFP2b/
+5298,stan,izdavanje,170.0,,,,,,,,,4300.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/stanovi/idn-5421-senjak-162m28m2-terasa-visoko-prizemlje-namesten/NkJFM15Mpry/
+4467,stan,izdavanje,252.0,,,,1,,"Samostalno, Klima",4,3,4032.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/41288-izdavanje-stan-dedinje-4032-eur/Nk7_LdR24R/
+19,stan,izdavanje,200.0,,,,5,,Centralno,,,4000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan-50--neuseljavan-cena-sa-svim-troskovima--hram/NkXRPGZaXIp/
+5594,stan,izdavanje,200.0,,,6,4,,"Samostalno, Klima",5,,4000.0,Beograd,Čubura,https://www.nekretnine.rs/stambeni-objekti/stanovi/50-cara-nikolaja-ii-cubura-200m2/NkThLvlxUF6/
+5592,stan,izdavanje,200.0,,,6,5,,"Samostalno, Klima",5,,4000.0,Beograd,Čubura,https://www.nekretnine.rs/stambeni-objekti/stanovi/50-cara-nikolaja-ii-cubura-200m2-v-sprat/NkoGxu0VnAT/
+4106,stan,izdavanje,377.0,,,,,,,5,,4000.0,Beograd,Čubura,https://www.nekretnine.rs/stambeni-objekti/stanovi/izdavanje-novopazarska/NkwLiOhd5bE/
+2667,stan,izdavanje,330.0,,,,,True,"Centralno, Klima",5,,4000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/dedinje-330m2-lux-namestena-id2173-1/NkoNn9K2JBCD/
+4069,stan,izdavanje,288.0,,,,2,,"Samostalno, Klima",5,4,4000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/41429-izdavanje-stan-dedinje-4000-eur/NkffJ_XHMFx/
+352,stan,izdavanje,1000.0,2020,,,,,Samostalno,1,,4000.0,Pećinci,,https://www.nekretnine.rs/stambeni-objekti/stanovi/simanovci-1000m2/NkCNK99dGBc/
+5311,stan,izdavanje,200.0,,,,4,,Centralno,5,,4000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/stan-za-izdavanje-hram-200m2-id-2663/Nkb2GaJad1yW/
+6127,stan,izdavanje,279.0,2019,,,2,,Samostalno,5,,4000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/stan-beograd-dedinje-heroja-milana-tepica/Nk08pvQ7KTo/
+5272,stan,izdavanje,248.0,,,5,4,,,3,,4000.0,Beograd,Voždovac,https://www.nekretnine.rs/stambeni-objekti/stanovi/cetvorosoban-penthouse-vozdovac/Nknol3FG67p/
+16332,stan,izdavanje,250.0,1935,,,,True,Klima,4,1,4000.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/kuce/kuca-za-izdavanje-senjak-250m2-id-2642-1/NkA6_gi8S3k/
+4834,stan,izdavanje,200.0,,,,5,,Centralno,,,4000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan--neuseljavan--50-hram/NkXalFEwtdT/
+4822,stan,izdavanje,200.0,,,,1,,Centralno,4,,4000.0,Beograd,Banovo brdo,https://www.nekretnine.rs/stambeni-objekti/stanovi/banovo-brdo-diplomatska-kolonija-pustorecka/Nky0MHd4a3d/
+4465,stan,izdavanje,244.0,,,,2,,"Samostalno, Klima",4,3,3904.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/41287-izdavanje-stan-dedinje-3904-eur/NkOL2X1qgm/
+3439,stan,izdavanje,256.0,,,6,,,,4,,3800.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/luksuzna-novogradnja-na-dedinju/NksYWkuprCl/
+19487,stan,izdavanje,430.0,1932,,,,,Klima,10,3,3800.0,Beograd,Voždovac,https://www.nekretnine.rs/stambeni-objekti/kuce/vozdovac-kuca-430m2/11334/
+4068,stan,izdavanje,283.0,,,,1,,"Samostalno, Klima",4,4,3500.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/41430-izdavanje-stan-dedinje-3500-eur/NkF7eU-9IMM/
+2589,stan,izdavanje,214.0,,,,7,,Centralno,,,3500.0,Beograd,Centar (uži),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivni-stanovi--penthaus--2-garazna-mesta--central-garden/NkLwuhvOCip/
+6107,stan,izdavanje,125.0,,,,,,Centralno,1,,3500.0,Beograd,Centar (uži),https://www.nekretnine.rs/stambeni-objekti/stanovi/125m2-1-lokal-centar/NkBVIxazDwY/
+1496,stan,izdavanje,214.0,2018,,,7,,Centralno,3,,3500.0,Beograd,Centar (uži),https://www.nekretnine.rs/stambeni-objekti/stanovi/izdajemo-fenomenalan-penthaus-u-city-gardenu/NkCqe8HJMRC/
+21,stan,izdavanje,214.0,,,,7,,Centralno,,,3500.0,Beograd,Centar (uži),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivni-stanovi--penthaus--2-garazna-mesta--central-garden/NkkKF04slfE/
+40,stan,izdavanje,213.0,,,,6,,Centralno,3,,3500.0,Beograd,Centar (uži),https://www.nekretnine.rs/stambeni-objekti/stanovi/lux-stan-u-samom-srcu-beograda-nadomak-tasmajdana-i-botanicke-baste/NkEXCAjzo42/
+4967,stan,izdavanje,180.0,,,,-1,,"Samostalno, Klima",4,4,3500.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/32933-izdavanje-stan-dedinje-3500-eur/1866527/
+4149,stan,izdavanje,213.0,,,,7,,Centralno,,,3500.0,Beograd,Tašmajdan,https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivni-stanovi--penthaus--2-garazna-mesta--central-garden/Nk2T5154rNd/
+4485,stan,izdavanje,214.0,,,,7,,"Centralno, Klima",3,2,3500.0,Beograd,Palilulska pijaca,https://www.nekretnine.rs/stambeni-objekti/stanovi/41708-izdavanje-stan-central-garden-3500-eur/NkPiBzgKFpc/
+4491,stan,izdavanje,180.0,,,,6,,"Centralno, Klima",5,4,3500.0,Beograd,Novi Beograd Blok 25 (Arena),https://www.nekretnine.rs/stambeni-objekti/stanovi/41230-izdavanje-stan-novi-beograd-3500-eur/NktcMmBTYIq/
+4418,stan,izdavanje,214.0,2018,,,7,True,"Samostalno, Klima",3,2,3500.0,Beograd,Tašmajdan,https://www.nekretnine.rs/stambeni-objekti/stanovi/palilula-stanoja-glavasa-568/NkwfkTMWHOD/
+5593,stan,izdavanje,170.0,,,6,4,,"Samostalno, Klima",4,,3400.0,Beograd,Čubura,https://www.nekretnine.rs/stambeni-objekti/stanovi/40-cara-nikolaja-ii-cubura-170m2/NkyQ47ppv5Z/
+5591,stan,izdavanje,170.0,,,6,5,,"Samostalno, Klima",4,,3400.0,Beograd,Čubura,https://www.nekretnine.rs/stambeni-objekti/stanovi/40-cara-nikolaja-ii-cubura-170m2-v-sprat/NkyHGZZ2rC7/
+23,stan,izdavanje,170.0,,,,5,,Centralno,,,3400.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan--neuseljavan--40-hram/NkzMYRI4yyH/
+5260,stan,izdavanje,170.0,,,6,3,True,Podno,4,,3400.0,Beograd,Čubura,https://www.nekretnine.rs/stambeni-objekti/stanovi/lux-4-soban-sa-garazom-kod-cuburskog-parka/Nkd3_3tFCZf/
+4835,stan,izdavanje,170.0,,,,4,,Centralno,,,3400.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan--neuseljavan--40-hram/NkVLGvLWxKZ/
+1972,stan,izdavanje,170.0,2020,,,5,True,"Samostalno, Klima",4,2,3400.0,Beograd,Čubura,https://www.nekretnine.rs/stambeni-objekti/stanovi/vracar-cara-nikolaja-ii-3064/NkyaJkhn8XG/
+4049,stan,izdavanje,177.0,,,4,4,,"Centralno, Klima",4,,3300.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/40-stan-u-centru-vracara/NkaoryjHWRH/
+83,stan,izdavanje,180.0,,,,,,Centralno,,,3300.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/glamorous-contemporary-family-dream-home/NkTyOkTzB-3/
+5539,stan,izdavanje,130.0,,,,,,Centralno,3,,3300.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/vracar-lux-30-novogradnja-kod-hrama-garaza-id-3864/NkxE9i71XUQ/
+4505,stan,izdavanje,120.0,,,,1,,"Centralno, Klima",3,2,3300.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/40357-izdavanje-stan-hram-svetog-save-3300-eur/Nkh3hZItea/
+30,stan,izdavanje,120.0,,,,1,,Centralno,,,3200.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/luksuzni-stanovi-na-vracaru--30--2-garazna--hram/Nkf8Z3xMFyT/
+105,stan,izdavanje,380.0,,,,7,,Centralno,,,3200.0,Beograd,Autokomanda,https://www.nekretnine.rs/stambeni-objekti/stanovi/impressive-penthaus-in-vozdovac-/Nk8qk9M2J4k/
+89,stan,izdavanje,130.0,,,,1,,Centralno,3,,3200.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/izdavanje-luksuznih-stanova-vracar-trosoban-nov-neuseljavan-lux-stan-2-garazna-mesta/Nkwl3_ZPagC/
+4218,stan,izdavanje,120.0,,,,1,,Centralno,,,3200.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivni-stanovi-na-vracaru--neuseljavan--2-garazna-mesta--hram/NklQ0MBmOTu/
+4131,stan,izdavanje,250.0,,,,2,,"Samostalno, Klima",5,,3000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/luksuzno-opremljen-stan-u-novogradnji-na-dedinju/Nklyp3k2b7d/
+433,stan,izdavanje,300.0,,,,1,,Centralno,,,3000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan-50--pink/NkPlyhbXpNJ/
+4281,stan,izdavanje,146.17,2018,,,17,,,4,2,3000.0,Beograd,Beograd na vodi,https://www.nekretnine.rs/stambeni-objekti/stanovi/savski-venac-beograd-stan-u-novogradnji-14617/Nk83n6EYo_V/
+6132,stan,izdavanje,248.0,2019,,,,,Samostalno,4,,3000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/savski-venac-dedinje-heroja-milana-tepica-248m2-heroja-milana-tepica/NkOayEuRfxn/
+14,stan,izdavanje,160.0,,,,3,,Centralno,,,3000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan-40--2-garazna-mesta-hram/Nk_9foW2NOI/
+6144,stan,izdavanje,180.0,,,,4,,"Centralno, Klima",4,3,3000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/40341-izdavanje-stan-hram-svetog-save-3000-eur/Nk9L5tqboH7/
+1105,stan,izdavanje,170.0,,,,5,,Centralno,4,,3000.0,Beograd,Novi Beograd Blok 11a (Opština NBG),https://www.nekretnine.rs/stambeni-objekti/stanovi/blok-11a-170m2-agencijski-id-7475/NkHWi6LPYa3/
+1219,stan,izdavanje,127.0,,,,7,,Centralno,4,1,3000.0,Beograd,Đeram pijaca,https://www.nekretnine.rs/stambeni-objekti/stanovi/nov-atraktivan-cetvorosoban-stan-kod-liona-id5544/NkfWMkdu9r2/
+5588,stan,izdavanje,160.0,,,,,,,,,3000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan-40--2-garazna-mesta-hram/NksPEWKrQQM/
+5541,stan,izdavanje,170.0,,,,5,,Centralno,,,3000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan-penthaus-kod-hramaretko-u-ponudi/NkgbmpLLoY3/
+5554,stan,izdavanje,180.0,,,,3,,Centralno,,,3000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan-40-novogradnjagaraza-hram/NkBsuTlOkd2j/
+5876,stan,izdavanje,103.0,,,,8,,Centralno,4,,3000.0,Beograd,Novi Beograd Blok 67a,https://www.nekretnine.rs/stambeni-objekti/stanovi/103-m2-stan-a-blok-agencijski-id-13821/Nkk-6QHvQkg/
+6131,stan,izdavanje,288.0,2019,,,1,,Samostalno,5,,3000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/savski-venac-dedinje-heroja-milana-tepica-288m2-heroja-milana-tepica/NkzUZPdlUsj/
+1498,stan,izdavanje,236.0,2012,,,3,,Samostalno,4,,3000.0,Beograd,Tašmajdan,https://www.nekretnine.rs/stambeni-objekti/stanovi/lux-stan-kod-tasmajdana-u-resavskoj-ulici/NkhRIzG9rMG/
+6126,stan,izdavanje,264.0,2019,,,2,,Samostalno,5,,3000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/savski-venac-dedinje-heroja-milana-tepica-264m2-heroja-milana-tepica/NkWsDF8yH4a/
+3804,stan,izdavanje,250.0,,,2,1,,"Centralno, Klima",5,,3000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/luksuzan-stan-na-dedinju/Nkb6r-r_Es9/
+3555,stan,izdavanje,205.0,,,,4,,"Samostalno, Klima",5,5,3000.0,Beograd,Vračar (Centar),https://www.nekretnine.rs/stambeni-objekti/stanovi/31755-izdavanje-stan-krunska-3000-eur/NkUBygo9Dim/
+6128,stan,izdavanje,270.0,2019,,,1,,Samostalno,5,,3000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/savski-venac-dedinje-heroja-milana-tepica-270m2-heroja-milana-tepica/NkI5bPIlXBk/
+4893,stan,izdavanje,160.0,,,,3,,Centralno,,,3000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan-40--2-garazna-mesta-hram/NkLDbbXjpmF/
+4682,stan,izdavanje,150.0,,,,2,,Centralno,,,3000.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivni-stanovi-na-senjaku/NkoSH502ef2/
+4700,stan,izdavanje,300.0,,,,1,,Centralno,,,3000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/stanovi/ekskluzivan-50--pink/Nk-Fr1y7e61/
+5958,stan,izdavanje,180.0,,,,,,Centralno,4,,3000.0,Beograd,Vračar (Hram),https://www.nekretnine.rs/stambeni-objekti/stanovi/vracar-40-nov-kod-hrama-id-4015/NkAGzPSmjOm/
+157,stan,izdavanje,125.0,,,,15,,,4,,3000.0,Beograd,Centar (uži),https://www.nekretnine.rs/stambeni-objekti/stanovi/savski-venac-centar-hercegovacka-40-125m2-3000eur/NkF8xdHWuWQ/
+4631,stan,izdavanje,262.0,,,2,2,,"Podno, Klima",6,,3000.0,Beograd,Dedinje (25. maj),https://www.nekretnine.rs/stambeni-objekti/stanovi/60-milenka-vesnica-dedinje-262m2/NknZt1H_iom/
+5534,stan,izdavanje,141.0,,,,9,,"Centralno, Klima",4,4,3000.0,Beograd,Centar (uži),https://www.nekretnine.rs/stambeni-objekti/stanovi/41229-izdavanje-stan-beograd-na-vodi-3000-eur/NkrR9xSKrh/
+6130,stan,izdavanje,257.0,2019,,,,,Samostalno,4,,3000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/savski-venac-dedinje-heroja-milana-tepica-257m2-heroja-milana-tepica/Nk-ylZUQ9VT/
+5161,stan,izdavanje,240.0,,,,,,,,,2900.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/stanovi/ultra-lux-i-moderan-penthaus-na-dedinju/NkyQYrjHSp4/

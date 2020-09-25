@@ -1,2 +1,2 @@
-realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter
-16698,kuca,prodaja,140.0,,,,,False,,140.0,,390000.0,Niš,Centar
+realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter,webpage
+18027,kuca,prodaja,140.0,,,,,,,140,,390000.0,Niš,Centar,https://www.nekretnine.rs/stambeni-objekti/kuce/medijana-nis-stambeno-poslovni-objekat-140/NkLKU0AQS9J/

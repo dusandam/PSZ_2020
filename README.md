@@ -40,9 +40,28 @@ u fajlovima na sledeci nacin:
 ### E) price_stats.csv, price_stats.png, price_stats_percentage.png
 
     
-## Zadatak 4: Vizuelizacija podataka
+## Zadatak 4: Implementacija linearne regresije
 
 Linearna regresija implementirana je skriptom linear_regression.py, a rezultati su dobijeni pokretanjem skripte
-test_regression_py. Rezultat ovog testa je ispisana vrednost srednje kvadratne greske
+test_regression_py. Skripta prima obavezne argumente tipa float: -y (godina izgradnje stana, npr. 2009) 
+i -s (kvadratura stana, npr. 150). 
+Kao rezultat rada, ova skripta ce ispisati opste performanse regresije u 
+vidu srednje kvadratne greske dobijene na osnovu uporedjivanja stvarnih vrednosti seta podataka za testiranje
+sa vrednostima dobijenim predikcijom ovog modela. Greska je procenjena na normalizovanim vrednostima ovih podataka
+(izmedju -1 i 1).
+Drugi rezultat rada je predikcija cene stana za vrednosti unetih podataka.    
+
+## Zadatak 5: Implementacija support vector machine algoritma
+
+Support Vetor Machine algoritam sa dve kernel funkcije obavlja visestruku klasifikaciju nad ulaznim
+skupom podataka (nekretnine na prodaju). Implementiran je uz koriscenje paketa sklearn.
+Skripta prima obavezne argumente tipa float: -y (godina izgradnje stana, npr. 2009), -s (kvadratura stana, npr. 150)
+i -t (ukupan broj soba, npr. 4).
+Izlazne vrednosti podeljene su u vise klasa: 'under_50', '50_to_100', '100_to_150', '150_to_200', 'over_200', u 
+zavisnosti od opsega u kome se cena nekretnine nalazi. 
+Za ovaj algoritam koriscene su dve kernel funkcije, linearna i polinomijalna.
+Kao rezultat ove faze dostavljaju se performanse algoritma sa svakom od kernel funkcija nad test setom podataka.
+Drugi rezultat je klasifikacija na osnovu ulaznim podataka.
+
 
 

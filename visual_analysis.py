@@ -19,12 +19,12 @@ class Visualize:
                                         password="dusandam",
                                         host="localhost",
                                         port="5432",
-                                        database="nekretnine")
+                                        database="psz_realestate")
 
             cursor=connection.cursor()
 
             # A)
-            query='select quarter, count(realty_id) from "Realty" where city like ' + "'Beograd' group by quarter order by count(realty_id) desc limit 8;"
+            query='select quarter, count(realty_id) from "realty" where city like ' + "'Beograd' group by quarter order by count(realty_id) desc limit 8;"
             cursor.execute(query)
             with open("visualization/most_present_quarters.csv", "w", newline='') as csv_file:
                 csv_writer=csv.writer(csv_file)
@@ -39,7 +39,7 @@ class Visualize:
                   'COUNT(CASE WHEN type like ' + "'stan'" + ' and square_meters is not null and square_meters between 81 and 95 THEN 1 END) AS count5, ' \
                   'COUNT(CASE WHEN type like ' + "'stan'" + ' and square_meters is not null and square_meters between 96 and 110 THEN 1 END) AS count6, ' \
                   'COUNT(CASE WHEN type like ' + "'stan'" + ' and square_meters is not null and 111 <= square_meters THEN 1 END) AS count7 ' \
-                  'FROM "Realty";'
+                  'FROM "realty";'
 
             cursor.execute(query)
             with open("visualization/appartment_square_meters.csv", "w", newline='') as csv_file:
@@ -55,7 +55,7 @@ class Visualize:
                   'COUNT(CASE WHEN year_built is not null and year_built between 1990 and 1999 THEN 1 END) AS count5, ' \
                   'COUNT(CASE WHEN year_built is not null and year_built between 2000 and 2009 THEN 1 END) AS count6, ' \
                   'COUNT(CASE WHEN year_built is not null and year_built between 2010 and 2019 THEN 1 END) AS count7 ' \
-                  'FROM "Realty";'
+                  'FROM "realty";'
 
             cursor.execute(query)
             with open("visualization/year_built_statistics.csv", "w", newline='') as csv_file:
@@ -64,7 +64,7 @@ class Visualize:
                 csv_writer.writerows(cursor)
 
             # D)
-            cities_query='select city from "Realty" group by city order by count(realty_id) desc limit 5;'
+            cities_query='select city from "realty" group by city order by count(realty_id) desc limit 5;'
             cursor.execute(cities_query)
             cities = cursor.fetchall()
             rows = []
@@ -78,7 +78,7 @@ class Visualize:
                       '(select COUNT(CASE WHEN offer_type is not null and offer_type like ' + "'prodaja'" + ' THEN 1 END) AS countSelling, ' \
                       'COUNT(CASE WHEN offer_type is not null and offer_type like ' + "'izdavanje'" + ' THEN 1 END) AS countRenting, ' \
                       'city ' \
-                      'FROM "Realty" where city like ' + "'" + city[0] + "'" + ' group by city) as tempTable;'
+                      'FROM "realty" where city like ' + "'" + city[0] + "'" + ' group by city) as tempTable;'
                 cursor.execute(query)
                 result = cursor.fetchall()
                 rows.append(result[0])
@@ -104,7 +104,7 @@ class Visualize:
                   'COUNT(CASE WHEN price is not null and price between 100000 and 149999 THEN 1 END) AS count3, ' \
                   'COUNT(CASE WHEN price is not null and price between 150000 and 199999 THEN 1 END) AS count4,' \
                   'COUNT(CASE WHEN price is not null and price >= 200000 THEN 1 END) AS count5 ' \
-                  'FROM "Realty" where offer_type like ' + "'prodaja'" + ') as tempTable;'
+                  'FROM "realty" where offer_type like ' + "'prodaja'" + ') as tempTable;'
 
             cursor.execute(query)
             with open("visualization/price_stats.csv", "w", newline='') as csv_file:

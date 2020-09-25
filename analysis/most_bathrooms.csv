@@ -1,2 +1,2 @@
-realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter
-14459,kuca,prodaja,3074.0,,,,3.0,False,"Samostalno, Klima",30.0,30.0,15000000.0,Beograd,Dedinje (RTV Pink)
+realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter,webpage
+9172,stan,prodaja,55.0,,,,,,Samostalno,2,20,13500.0,Beograd,Padinska skela,https://www.nekretnine.rs/stambeni-objekti/stanovi/20-stan-jabucki-rit-id1485/NkwEF6HPElB/

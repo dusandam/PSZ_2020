@@ -37,7 +37,7 @@ class Repository:
 
             cursor=connection.cursor()
 
-            clean_database='delete from "Realty"'
+            clean_database='delete from "realty"'
             cursor.execute(clean_database)
             connection.commit()
             print("Database_empty: ")

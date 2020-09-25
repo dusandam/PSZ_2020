@@ -1,21 +1,21 @@
-realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter
-14459,kuca,prodaja,3074.0,,,,3.0,False,"Samostalno, Klima",30.0,30.0,15000000.0,Beograd,Dedinje (RTV Pink)
-16408,kuca,prodaja,3074.0,2019,,,,False,"Samostalno, Klima",,,15000000.0,Beograd,Dedinje (Beli dvor)
-16313,kuca,prodaja,1390.0,,,,3.0,True,"Centralno, Klima",20.0,17.0,7900000.0,Beograd,Dedinje (RTV Pink)
-16331,kuca,prodaja,1335.0,,,,2.0,True,Klima,11.0,8.0,5500000.0,Beograd,Savski venac
-16441,kuca,prodaja,1335.0,,,,,True,Samostalno,9.0,,5500000.0,Beograd,Dedinje (Beli dvor)
-14982,kuca,prodaja,1290.0,,2450.0,,,True,Centralno,10.0,,5500000.0,Beograd,Dedinje (25. maj)
-12116,kuca,prodaja,1150.0,2008,,,,True,Samostalno,6.0,5.0,5000000.0,Beograd,Topčider
-18226,kuca,prodaja,800.0,1998,,,,True,Samostalno,5.0,,5000000.0,Beograd,Senjak
-18172,kuca,prodaja,1500.0,2016,,,2.0,False,Samostalno,7.0,,5000000.0,Beograd,Savski venac
-17746,kuca,prodaja,900.0,,,,,True,Samostalno,7.0,,4600000.0,Beograd,Dedinje (RTV Pink)
-11886,kuca,prodaja,850.0,,,,,True,Samostalno,1.0,1.0,4500000.0,Beograd,Dedinje (25. maj)
-17060,kuca,prodaja,900.0,,,,,True,,7.0,,4500000.0,Beograd,Dedinje (RTV Pink)
-17440,kuca,prodaja,800.0,,,,-1.0,False,"Samostalno, Klima",20.0,2.0,4500000.0,Beograd,Dedinje (RTV Pink)
-14078,kuca,prodaja,1338.0,,10.0,5.0,,True,,,,4000000.0,Beograd,Dedinje (25. maj)
-11734,kuca,prodaja,850.0,,,,,True,"Samostalno, Klima",6.0,4.0,4000000.0,Beograd,Senjak
-14018,kuca,prodaja,1338.0,,10.0,5.0,,True,,,,4000000.0,Beograd,Dedinje (25. maj)
-17195,kuca,prodaja,500.0,,,,,True,Centralno,,,4000000.0,Beograd,Dedinje (25. maj)
-16826,kuca,prodaja,770.0,,2500.0,,,False,,,,4000000.0,Tivat,
-11891,kuca,prodaja,800.0,,,,,False,Samostalno,1.0,1.0,3990000.0,Beograd,Dedinje (25. maj)
-12115,kuca,prodaja,900.0,2006,,,,True,Samostalno,6.0,6.0,3900000.0,Beograd,Topčider
+realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter,webpage
+17746,kuca,prodaja,3074.0,2019,,,,,"Samostalno, Klima",,,15000000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/kuce/savski-venac-dedinje-heroja-milana-tepica-3074m2-heroja-milana-tepica/NkOg3fBKID0/
+17657,kuca,prodaja,1390.0,,,,3,True,"Centralno, Klima",20,17,7900000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/kuce/dedinje-stambeno-poslovni-prostor-prodaja/NkkIOzXE2np/
+17779,kuca,prodaja,1335.0,,,,,True,Samostalno,9,,5500000.0,Beograd,Dedinje (Beli dvor),https://www.nekretnine.rs/stambeni-objekti/kuce/1335m2-94-kuca-dedinje/166808/
+17674,kuca,prodaja,1335.0,,,,2,True,Klima,11,8,5500000.0,Beograd,Savski venac,https://www.nekretnine.rs/stambeni-objekti/kuce/savski-venac-dedinje-vila-prodaja/NkI0lGflnsD/
+21595,kuca,prodaja,1290.0,,2450.0,,,True,Centralno,10,,5500000.0,Beograd,Dedinje (25. maj),https://www.nekretnine.rs/stambeni-objekti/kuce/dedinje-u-blizini-uzicke-luksuzna-vila-1290m2-dvoriste-24-5-ara/NkDPxM2S78/
+19393,kuca,prodaja,1500.0,2016,,,2,,Samostalno,7,,5000000.0,Beograd,Savski venac,https://www.nekretnine.rs/stambeni-objekti/kuce/vila-na-dedinju-1600m2-115-ari-plac/169331/
+21181,kuca,prodaja,1150.0,2008,,,,True,Samostalno,6,5,5000000.0,Beograd,Topčider,https://www.nekretnine.rs/stambeni-objekti/kuce/60-dedinje-kod-uzicke-raskosna-luskuzna-vila-rezidencijalna-zona-27ari-id1563/Nkyq6zZHGmv/
+19000,kuca,prodaja,900.0,,,,,True,Samostalno,7,,4600000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/kuce/dedinje-vajara-doke-jovanovica/204558/
+18724,kuca,prodaja,800.0,,,,-1,,"Samostalno, Klima",20,2,4500000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/kuce/38983-prodaja-kuca-dedinje-4500000-eur/1867932/
+19693,kuca,prodaja,850.0,,,,,True,Samostalno,1,1,4500000.0,Beograd,Dedinje (25. maj),https://www.nekretnine.rs/stambeni-objekti/kuce/kuca-dedinje-uzicka-id1014/NkmtJ4gI-NSz/
+18366,kuca,prodaja,900.0,,,,,True,,7,,4500000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/kuce/dedinje-vajara-doke-jovanovica---vila-sa-bazenom/NkWOMxwwg-W/
+18150,kuca,prodaja,770.0,,2500.0,,,,,,,4000000.0,Tivat,,https://www.nekretnine.rs/stambeni-objekti/kuce/tivat-kakrc---ekskluzivna-vila-na-prvoj-liniji-do-mora-sa-svojom-plazom/NkQxoE9uYP3/
+18492,kuca,prodaja,500.0,,,,,True,Centralno,,,4000000.0,Beograd,Dedinje (25. maj),https://www.nekretnine.rs/stambeni-objekti/kuce/prelepa-kuca-na-dedinju/Nk3UZHjo1aQi/
+20557,kuca,prodaja,980.0,,,,,True,,10,,4000000.0,Beograd,Dedinje (RTV Pink),https://www.nekretnine.rs/stambeni-objekti/kuce/topciderski-venac-id25582/Nko7N8xi14B/
+20967,kuca,prodaja,850.0,,,,,True,"Samostalno, Klima",6,4,4000000.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/kuce/luksuzna-vanserijska-kuca-na-15ari-placa-id89993/NkW0TJMKQrf/
+19710,kuca,prodaja,800.0,,,,,,Samostalno,1,1,3990000.0,Beograd,Dedinje (25. maj),https://www.nekretnine.rs/stambeni-objekti/kuce/kuca-dedinje-uzicka-id1081/Nkc8oSwzqUfP/
+21182,kuca,prodaja,900.0,2006,,,,True,Samostalno,6,6,3900000.0,Beograd,Topčider,https://www.nekretnine.rs/stambeni-objekti/kuce/60-kuca-dedinje-ultra-luksuzna-moderna-vila-top-ponuda-id1546/NkkihLaowyBZ/
+21802,kuca,prodaja,516.0,,2228.0,3,,True,,11,,3900000.0,Krašići,,https://www.nekretnine.rs/stambeni-objekti/kuce/nova-vila-povrsinom-516-m2-na-1-liniji-u-krasicima-bazen-ponta/NkoONGAz-qT/
+19227,kuca,prodaja,980.0,,,,3,True,"Centralno, Samostalno, Klima",6,,3800000.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/kuce/prodaja-kuce-rezidencija-senjak-980m2-na-10ari/23077/
+21186,kuca,prodaja,620.0,2008,,,,True,Samostalno,10,6,3800000.0,Beograd,Senjak,https://www.nekretnine.rs/stambeni-objekti/kuce/7-0-kuca-savski-venac-senjak-top-lokacija-ekskluzivna-ponuda-id1619/NkuorApI6yT/

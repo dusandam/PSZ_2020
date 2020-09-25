@@ -1,2 +1,2 @@
-realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter
-13602,kuca,prodaja,137.0,,1230000.0,1.0,,True,Samostalno,2.0,,,Topola (selo),
+realty_id,type,offer_type,square_meters,year_built,land_area,total_floors,floor,registered,heating_type,total_rooms,total_bathrooms,price,city,quarter,webpage
+22019,kuca,prodaja,,,94000.0,,,True,,,1,18000.0,Čačak,Centar,https://www.nekretnine.rs/stambeni-objekti/kuce/prodajem-seosko-domacinstvo-donja-trepca-cacak/Nkel4N38ZBu/
