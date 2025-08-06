@@ -1,6 +1,7 @@
 # Real Estate Price predictor
 
 ---
+## Abstract
 This project is focused on the end-to-end data science lifecycle, using real estate data as its foundation. The process begins with scraping property listings from various Serbian real estate websites. This collected data is then used to perform comprehensive analysis, data visualization, and to build machine learning models for tasks such as price prediction and multi-class classification. The ultimate goal is to uncover hidden knowledge and patterns within the real estate market data.
 ---
 
