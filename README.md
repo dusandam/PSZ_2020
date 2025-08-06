@@ -1,67 +1,47 @@
-# Pronalazenje skrivenog znanja 2020 - projektni zadatak
+# Real Estate Price predictor
 
-## Zadatak 1: Prikupljanje podataka
+---
+This project is focused on the end-to-end data science lifecycle, using real estate data as its foundation. The process begins with scraping property listings from various Serbian real estate websites. This collected data is then used to perform comprehensive analysis, data visualization, and to build machine learning models for tasks such as price prediction and multi-class classification. The ultimate goal is to uncover hidden knowledge and patterns within the real estate market data.
+---
 
-Za realizaciju ove faze koriscena je skripta populate_database.py zajedno sa repository.py
-Baza je kreirana uz pomoc skripte create_database.py, a njen sadrzaj se nalazi u fajlu /analysis.database.csv.
+## Task 1: Data Collection
 
-## Zadatak 2: Analiza podataka
+To complete this phase, the `populate_database.py` script was used along with `repository.py`. The database was created with the `create_database.py` script, and its content is located in the `/analysis.database.csv` file.
 
-Rezultati ovog zadatka dobijaju se pokretanjem skripte analysis.py, i nalaze se u direktorijumu analyisis 
-u fajlovima na sledeci nacin:
+---
 
-### A) offer_count.csv
+## Task 2: Data Analysis
 
-### B) listings_per_city.csv
+The results of this task are obtained by running the `analysis.py` script and are located in the `analysis` directory in the following files:
 
-### C) registered.csv, unregistered.csv
+* A) `offer_count.csv`
+* B) `listings_per_city.csv`
+* C) `registered.csv`, `unregistered.csv`
+* D) `expensive_houses.csv`, `expensive_appartments.csv`
+* E) `expensive_houses_rent.csv`, `expensive_appartments_rent.csv`
+* F) `bulit_in_2019.csv`
+* G) `most_rooms.csv`, `most_bathrooms.csv`, `largest_land_area.csv`
 
-### D) expensive_houses.csv, expensive_appartments.csv
+---
 
-### E) expensive_houses_rent.csv, expensive_appartments_rent.csv
+## Task 3: Data Visualization
 
-### F) bulit_in_2019.csv
+The results of this task are obtained by running the `visual_analysis.py` script and are located in the `visualization` directory in the following files:
 
-### G) most_rooms.csv, most_bathrooms.csv, largest_land_area.csv
-    
-## Zadatak 3: Vizuelizacija podataka
+* A) `most_present_quarters.csv`, `most_present_quarters.png`
+* B) `appartment_square_meters.csv`, `appartment_square_meters.png`
+* C) `year_built_statistics.csv`, `year_built_statistics.png`
+* D) `ratio.csv`, `ratio_listings_percentage.png`, `ratio_number_of_listings.png`, `ratio_ratio.png`
+* E) `price_stats.csv`, `price_stats.png`, `price_stats_percentage.png`
 
-Rezultati ovog zadatka dobijaju se pokretanjem skripte visual_analysis.py, i nalaze se u direktorijumu visualization 
-u fajlovima na sledeci nacin:
+---
 
-### A) most_present_quarters.csv, most_present_quarters.png
+## Task 4: Linear Regression Implementation
 
-### B) appartment_square_meters.csv, appartment_square_meters.png
+The linear regression model was implemented with the `linear_regression.py` script, and the results were obtained by running the `test_regression.py` script. The script takes mandatory float arguments: `-y` (apartment year of construction, e.g., 2009) and `-s` (apartment square footage, e.g., 150). As a result, this script will output the general regression performance in the form of the mean squared error (MSE) obtained by comparing the actual values of the test dataset with the values predicted by the model. The error was evaluated on the normalized values of this data (between -1 and 1). The second result is the prediction of the apartment price for the given input data.
 
-### C) year_built_statistics.csv, year_built_statistics.png
+---
 
-### D) ratio.csv, ratio_listings_percentage.png, ratio_number_of_listings.png, ratio_ratio.png
+## Task 5: Support Vector Machine Algorithm Implementation
 
-### E) price_stats.csv, price_stats.png, price_stats_percentage.png
-
-    
-## Zadatak 4: Implementacija linearne regresije
-
-Linearna regresija implementirana je skriptom linear_regression.py, a rezultati su dobijeni pokretanjem skripte
-test_regression_py. Skripta prima obavezne argumente tipa float: -y (godina izgradnje stana, npr. 2009) 
-i -s (kvadratura stana, npr. 150). 
-Kao rezultat rada, ova skripta ce ispisati opste performanse regresije u 
-vidu srednje kvadratne greske dobijene na osnovu uporedjivanja stvarnih vrednosti seta podataka za testiranje
-sa vrednostima dobijenim predikcijom ovog modela. Greska je procenjena na normalizovanim vrednostima ovih podataka
-(izmedju -1 i 1).
-Drugi rezultat rada je predikcija cene stana za vrednosti unetih podataka.    
-
-## Zadatak 5: Implementacija support vector machine algoritma
-
-Support Vetor Machine algoritam sa dve kernel funkcije obavlja visestruku klasifikaciju nad ulaznim
-skupom podataka (nekretnine na prodaju). Implementiran je uz koriscenje paketa sklearn.
-Skripta prima obavezne argumente tipa float: -y (godina izgradnje stana, npr. 2009), -s (kvadratura stana, npr. 150)
-i -t (ukupan broj soba, npr. 4).
-Izlazne vrednosti podeljene su u vise klasa: 'under_50', '50_to_100', '100_to_150', '150_to_200', 'over_200', u 
-zavisnosti od opsega u kome se cena nekretnine nalazi. 
-Za ovaj algoritam koriscene su dve kernel funkcije, linearna i polinomijalna.
-Kao rezultat ove faze dostavljaju se performanse algoritma sa svakom od kernel funkcija nad test setom podataka.
-Drugi rezultat je klasifikacija na osnovu ulaznim podataka.
-
-
-
+The Support Vector Machine algorithm with two kernel functions performs multi-class classification on the input dataset (properties for sale). It was implemented using the `sklearn` package. The script takes mandatory float arguments: `-y` (apartment year of construction, e.g., 2009), `-s` (apartment square footage, e.g., 150), and `-t` (total number of rooms, e.g., 4). The output values are divided into several classes: `'under_50'`, `'50_to_100'`, `'100_to_150'`, `'150_to_200'`, `'over_200'`, depending on the price range of the property. Two kernel functions were used for this algorithm: linear and polynomial. The results of this phase include the performance of the algorithm with each kernel function on the test dataset. The second result is the classification based on the input data.
