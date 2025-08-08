@@ -109,10 +109,10 @@ def populate():
                                 else:
                                     transaction='izdavanje'
                             if 'Kategorija' in content.contents[0]:
-                                # stanovi mogu biti i garsonjere i dupleksi
-                                if 'kuća' in content.contents[0].lower():
+                                # Realty categories, could be house or apartment
+                                if 'kuća' in content.contents[0].lower(): # house
                                     category='kuca'
-                                else:
+                                else: # apartment
                                     category='stan'
                             if 'Kvadratura' in content.contents[0]:
                                 square_metrics=content.contents[0]
